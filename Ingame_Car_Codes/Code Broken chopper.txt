@@ -1,0 +1,10 @@
+broken chopper
+
+parts: [["glass1",0.701],["glass2",1],["glass3",1],["glass4",1],["glass5",1],["motor",0.8],["elektronika",0.772],["mala vrtule",0.051],["velka vrtule",1]]
+
+
+damage: 0.0551180988550186
+
+Low Fuel: 0.028999999165534973
+
+fueal a bit half full: 0.4768190085887909

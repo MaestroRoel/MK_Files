@@ -1,0 +1,46 @@
+87096710
+
+1	UAZ_Unarmed_TK_EP1		875
+2	UAZ_Unarmed_TK_CIV_EP1	876
+3	UAZ_Unarmed_UN_EP1		877
+4	UAZ_RU					878
+5	ATV_US_EP1				879
+6	ATV_CZ_EP1				880
+7	SkodaBlue				881
+8	Skoda					882
+9	SkodaGreen				883
+
+10	TT650_Ins				
+11	TT650_TK_EP1			
+12	TT650_TK_CIV_EP1		
+20	S1203_TK_CIV_EP1		
+29	SUV_TK_CIV_EP1			
+33	LandRover_CZ_EP1		
+21	V3S_Civ					
+56	BAF_Offroad_D
+57	BAF_Offroad_W			886
+93  HMMWV					884
+81	VWGolf					885
+82	VolhaLimo_TK_CIV_EP1
+69	LadaLM
+63	GAZ_Vodnik
+
+15	UH1H_DZ					887		
+54	Mi17_DZ					888
+55	AN2_DZ					
+53	AH6X_DZ					889
+
+71
+35
+72
+
+broken chopper
+
+parts: [["glass1",0.701],["glass2",1],["glass3",1],["glass4",1],["glass5",1],["motor",0.8],["elektronika",0.772],["mala vrtule",0.051],["velka vrtule",1]]
+
+damage: 0.0551180988550186
+
+Low Fuel: 0.028999999165534973  // 0.12451600283384323
+
+fueal a bit half full: 0.4768190085887909
+!

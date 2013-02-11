@@ -1,0 +1,8 @@
+
+
+
+
+
+
+SELECT COUNT(*) 
+FROM  `instance_vehicle`;

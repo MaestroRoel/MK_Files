@@ -1,0 +1,85 @@
+87096710
+
+fueal: 0.3992219865322113
+
+1	UAZ_Unarmed_TK_EP1			873
+
+
+
+
+
+
+2	UAZ_Unarmed_TK_CIV_EP1		970
+3	UAZ_Unarmed_UN_EP1			971
+4	UAZ_RU						972
+5	ATV_US_EP1		
+6	ATV_CZ_EP1	
+7	SkodaBlue					973
+8	Skoda						974
+9	SkodaGreen					975
+
+11	TT650_TK_EP1	
+
+13	Old_bike_TK_CIV_EP1	
+
+
+16	hilux1_civil_3_open			978	
+17	Ikarus_TK_CIV_EP1	
+
+20	S1203_TK_CIV_EP1			976
+21	V3S_Civ						977
+22	UralCivil					979
+23	car_hatchback				980
+
+OBAMA CARS Black SUV
+94	SUV_Blue					883
+95	SUV_Charcoal				954
+96	SUV_Green					334
+97	SUV_Orange					963
+98	SUV_Pink					949
+99	SUV_Red						879
+100	SUV_Silver					358
+101	SUV_Special					881
+29	SUV_TK_CIV_EP1				600
+102	SUV_White					880
+103 SUV_Yellow					878
+
+
+
+
+27	Volha_2_TK_CIV_EP1	
+
+Aircraft	
+//34	Ka60_GL_NAC				
+71	Mi17_Civilian_DZ			988	
+//35	Mi17_Civilian_Nam			987	
+54	Mi17_DZ						986				
+//72	Mi17_medevac_RU_DZ			985			
+61	An2_2_TK_CIV_EP1_DZ			984
+53	AH6X_DZ						981			
+55	AN2_DZ						982
+//91	C130J						983
+15	UH1H_DZ						891
+
+
+
+
+
+
+Boats:
+105	Zodiac
+25	PBX				586
+60	PBX_DZ			444
+
+
+broken chopper
+
+parts: [["glass1",0.701],["glass2",1],["glass3",1],["glass4",1],["glass5",1],["motor",0.8],["elektronika",0.772],["mala vrtule",0.051],["velka vrtule",1]]
+
+
+damage: 0.0551180988550186
+
+Low Fuel: 0.028999999165534973  // 0.12451600283384323
+
+fueal a bit half full: 0.4768190085887909
+75	RHIB2Turret_DZ	989

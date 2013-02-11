@@ -1,0 +1,46 @@
+87096710
+
+64100486
+
+		Chopper					873
+55		Small Plane				874
+91		c130					875
+
+
+
+29		SUV_TK_CIV_EP1			877
+1		UAZ_Unarmed_TK_EP1		878
+2		UAZ_Unarmed_TK_CIV_EP1	879
+3		Skoda					881
+4		UAZ_RU					887
+9		SkodaGreen				882
+20		S1203_TK_CIV_EP1		884
+21		V3S_Civ					886
+22		UralCivil				883
+33		LandRover_CZ_EP1		885
+69		LadaLM					888
+77		SkodaRed				889
+81		VWGolf					880
+
+
+[[[], []], [["PartFueltank", "PartWheel"], [1, 1]], [[], []]]
+
+[[[], []], [["PartEngine", "ItemJerrycan"], [1, 1]], [[], []]]
+
+[[["Makarov"], [1]], [["FoodCanBakedBeans,ItemJerrycan"], [3,3]], [[], []]]
+ 5.9.145.239:9302
+
+hilux1_civil_3_open_EP1
+
+
+
+broken chopper
+
+parts: [["glass1",0.701],["glass2",1],["glass3",1],["glass4",1],["glass5",1],["motor",0.8],["elektronika",0.772],["mala vrtule",0.051],["velka vrtule",1]]
+
+
+damage: 0.0551180988550186
+
+Low Fuel: 0.028999999165534973  // 0.12451600283384323
+
+fueal a bit half full: 0.4768190085887909
