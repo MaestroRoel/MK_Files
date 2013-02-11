@@ -1,6 +1,5 @@
 
-
-Bronze package updated feb 11th 2013
+BRONZE_Package_DayZ_5
 
 INVENTORY:
 
