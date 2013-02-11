@@ -1,10 +1,10 @@
-<font face="arial" size=2 color=#F8F8F8 >
-\\\\\\\\\  INFORMATION ABOUT DONATING /////////
-
-
-**YOU SHOULD BE ATLEAST 16 YEARS OF AGE BEFORE DONATING. ASK YOUR PARENTS FOR PERMISSION IF YOU ARE UNDER 18 YEARS AGE.**
-
-
+<center>**Note:You Should be atleast 16 Years of age to make MercyKillers a Donation, If under 18, Make sure your Parents know about this**</center>
+</br>
+</br>
+<font face="arial" size=2 color=#F8F8F8>
+<center>Whats this donation thing all about?</center>
+</br>
+</br>
 Hello survivors,bandits and VIP's of Mercykillers!
 Mercykillers have been running a successful series of servers for a while now, and we are constantly expanding
 to have more servers for you to play on!
@@ -27,7 +27,7 @@ Silver (10Euro): http://mercykillers.eu/e107_plugins/forum/forum_viewtopic.php?1
 
 Golden (15Euro): http://mercykillers.eu/e107_plugins/forum/forum_viewtopic.php?105
 
-Platinum(20Euro): [Link will be added shortly]
+Platinum(20Euro): [link]
 
 For more information about the Wasteland packages, click on the links below.
  
@@ -42,6 +42,6 @@ Platinum (20Euro): http://mercykillers.eu/e107_plugins/forum/forum_viewtopic.php
 
 \\\\\\\\ INFORMATION ABOUT HOW TO DONATE AND GET YOUR GEAR ////////
 
-- Make a donation of your own choice to paypal@mercykillers.eu through PayPal.
+- Make a donation of your own choice to paypal @ mercykillers.eu through PayPal.
 
 </font>
