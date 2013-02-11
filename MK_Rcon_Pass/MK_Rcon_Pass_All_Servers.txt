@@ -1,0 +1,17 @@
+Rcon Pass all server
+
+Chernarus, MK1: WinterStorm
+
+Namalsk, MK2: WinterSleep
+
+Taviana, MK3: WinterSnow
+
+Wasteland, MK4: WinterSummer
+
+Panthera, MK5: WinterSun
+
+W-Takistan, MK6: WinterRain
+
+Takistan, MK7: WinterFog
+
+Lingor, MK8: WinterWind
