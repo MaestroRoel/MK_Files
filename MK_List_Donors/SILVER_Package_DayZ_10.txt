@@ -1,0 +1,14 @@
+
+
+
+SILVER_Package_DayZ_10
+
+
+INVENTORY:
+
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M4A1_AIM_SD_camo","ItemToolbox","Binocular"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemMorphine","ItemHeatPack","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+
+backpack alice:
+["DZ_ALICE_Pack_EP1",[["M24"],[1]],[["ItemWaterbottle","ItemBloodbag","FoodSteakCooked","20Rnd_762x51_DMR"],[1,1,2,2]]]
+
+Sniper1_DZ
