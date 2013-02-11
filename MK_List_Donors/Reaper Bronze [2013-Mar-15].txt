@@ -1,0 +1,14 @@
+
+MK1 Inventory
+
+[["M9SD","NVGoggles","ItemMap","ItemWatch","ItemHatchet","ItemCompass","ItemMatchbox","ItemGPS","ItemKnife"],["ItemPainkiller","ItemMorphine","Skin_Camo1_DZ","Skin_Soldier1_DZ","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage","ItemBandage","ItemBandage","ItemBandage"]]
+
+
+["DZ_ALICE_Pack_EP1",[["Sa58V_CCO_EP1"],[1]],[["30Rnd_762x39_AK47","ItemWaterbottle","FoodSteakCooked"],[3,2,1]]]
+
+
+45
+
+110012998
+
+Reaper Bronze [2013-Mar-15]
