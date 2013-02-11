@@ -1,0 +1,18 @@
+INVENTORY:
+
+
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","AKS_GOLD","ItemToolbox","ItemWatch","Binocular_Vector"],["ItemPainkiller","ItemMorphine","ItemHeatPack","ItemPainkiller","30Rnd_762x39_AK47","30Rnd_762x39_AK47","30Rnd_762x39_AK47","30Rnd_762x39_AK47","ItemMorphine","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+
+
+["DZ_Backpack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","HandGrenade_West","Skin_Sniper1_DZ","FoodSteakCooked"],[3,1,1,1,2]]]
+
+Rocket_DZ
+
+CamoWinterW_DZN
+
+85
+
+76323398
+
+MikeFools Platinum [2013-Mar-3]
+

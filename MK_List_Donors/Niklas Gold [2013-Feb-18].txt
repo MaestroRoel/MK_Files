@@ -1,0 +1,22 @@
+
+
+
+
+INVENTORY:
+
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemToolbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","BAF_L85A2_RIS_CWS","ItemWatch","Binocular_Vector"],["30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","FoodSteakCooked","Skin_Sniper1_DZ","FoodSteakCooked","ItemSodaCoke","ItemSodaCoke","ItemSodaCoke","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+
+
+backpack alice:
+["DZ_Backpack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","FoodSteakCooked","ItemMorphine","ItemBloodbag","Skin_Sniper1_DZ"],[3,2,2,2,2,1]]]
+
+
+Rocket_DZ
+
+Camo1_DZ
+
+13
+1472194
+
+
+Niklas Gold [2013-Feb-18]

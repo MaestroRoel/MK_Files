@@ -1,0 +1,12 @@
+Standard Skin.............Survivor2_DZ
+Camo Clothing Skin........Camo1_DZ
+Ghillie Clothing Skin.....Sniper1_DZ
+Rocket's Personal Skin....Rocket_DZ
+Soldier Skin..............Soldier1_DZ
+2nd Survivor Skin.........SurvivorW2_DZ
+Bandit Skin...............Bandit1_DZ
+
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemFlashlight","ItemToolbox","Binocular_Vector","ItemGPS","M4A1_HWS_GL_camo"],["ItemPainkiller","ItemPainkiller","ItemEpinephrine","ItemMorphine","ItemBandage","15Rnd_9x19_M9SD","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","Skin_CamoWinter_DZN","Skin_Rocket_DZ","Skin_Soldier1_DZ"]]
+
+
+DZ_Assault_Pack_EP1

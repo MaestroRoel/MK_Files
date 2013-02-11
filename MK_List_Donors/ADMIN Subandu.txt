@@ -1,0 +1,19 @@
+
+
+
+
+
+INVENTORY:
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M4A3_CCO_EP1","ItemToolbox","binocular_vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","HandGrenade_West","ItemHeatPack","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+
+backpack alice:
+["DZ_ALICE_Pack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","ItemBloodbag","Skin_Sniper1_DZ","FoodSteakCooked"],[3,2,1,1,2]]]
+
+
+63
+79863110
+
+CamoWinter_DZN
+
+Admin Danny

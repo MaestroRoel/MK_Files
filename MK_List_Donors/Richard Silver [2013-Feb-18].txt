@@ -1,0 +1,15 @@
+INVENTORY:
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M4A1_AIM_SD_camo","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemHeatPack","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+backpack alice:
+["DZ_ALICE_Pack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","FoodSteakCooked","Skin_Sniper1_DZ","ItemMorphine","ItemBloodbag"],[3,2,2,1,1,2]]]
+
+
+Soldier1_DZ
+
+14
+
+21274182
+
+
+Richard Silver [2013-Feb-18]

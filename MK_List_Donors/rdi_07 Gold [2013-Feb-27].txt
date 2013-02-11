@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+[["UZI_SD_EP1","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemToolbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","DMR","ItemWatch","Binocular_Vector"],["20Rnd_762x51_DMR","20Rnd_762x51_DMR","20Rnd_762x51_DMR","20Rnd_762x51_DMR","FoodSteakCooked","Skin_Sniper1_DZ","FoodSteakCooked","ItemSodaCoke","ItemSodaCoke","ItemSodaCoke","ItemBandage","ItemBandage","ItemBandage","ItemBandage","30Rnd_9x19_UZI_SD","30Rnd_9x19_UZI_SD","30Rnd_9x19_UZI_SD","30Rnd_9x19_UZI_SD"]]
+
+
+["DZ_Backpack_EP1",[["BAF_L85A2_RIS_Holo"],[1]],[["30Rnd_556x45_Stanag","ItemMorphine","ItemBloodbag","Skin_Camo1","ItemHeatPack","ItemPainkiller","FoodSteakCooked","ItemSodaMdew"],[3,2,2,1,1,1,2,2]]]
+
+
+Rocket_DZ
+
+41
+
+86576262
+
+rdi_07 Gold [2013-Feb-27]
+
+
+
+
+Namalsk
+["DZ_Backpack_EP1",[["M14_EP1"],[1]],[["20Rnd_762x51_DMR","ItemMorphine","ItemBloodbag","ItemAntibiotic","ItemHeatPack","ItemPainkiller","FoodSteakCooked","ItemSodaMdew"],[3,2,2,1,1,1,2,2]]]

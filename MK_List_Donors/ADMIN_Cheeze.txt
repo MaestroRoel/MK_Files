@@ -1,0 +1,20 @@
+INVENTORY:
+
+[["G36a","NVGoggles","Binocular_Vector","M9SD","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","ItemToolbox","ItemWatch"],["ItemPainkiller","ItemMorphine","ItemMorphine","ItemPainkiller","30Rnd_556x45_G36","30Rnd_556x45_G36","30Rnd_556x45_G36","30Rnd_556x45_G36","30Rnd_556x45_G36","ItemAntibiotic","HandGrenade_West","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+backpack alice:
+["DZ_Backpack_EP1",[["BAF_AS50_scoped"],[1]],[["ItemWaterbottle","ItemBloodbag","ItemEpinephrine","ItemAntibiotic","FoodSteakCooked","5Rnd_127x99_as50","10Rnd_127x99_m107"],[3,2,1,1,3,2,2]]]
+
+Rocket_DZ
+
+40
+
+94177606
+
+Platinum JailbaitCheeze [2013-Feb-1]
+
+Namalsk
+
+[["UZI_SD_EP1","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","G36_c_SD_eotech","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemMorphine","ItemHeatPack","30Rnd_556x45_G36SD","30Rnd_556x45_G36SD","30Rnd_556x45_G36SD","30Rnd_556x45_G36SD","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","30Rnd_9x19_UZI_SD","30Rnd_9x19_UZI_SD","30Rnd_9x19_UZI_SD","30Rnd_9x19_UZI_SD","ItemBandage"]]
+
+

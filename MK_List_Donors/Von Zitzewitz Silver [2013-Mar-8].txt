@@ -1,0 +1,20 @@
+Inventory
+
+[["M9SD","NVGoggles","ItemMap","ItemGPS","binocular_vector","ItemWatch","ItemHatchet","ItemCompass","ItemMatchbox","ItemKnife","FN_FAL"],["ItemPainkiller","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemMorphine","20Rnd_762x51_FNFAL","20Rnd_762x51_FNFAL","20Rnd_762x51_FNFAL","20Rnd_762x51_FNFAL"]]
+
+
+["DZ_ALICE_Pack_EP1",[["M24"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","ItemAntibiotic","FoodSteakCooked"],[2,2,1,1]]]
+
+Sniper1_DZ
+
+CamoWinter_DZN
+
+MK1
+86
+
+MK2
+86
+
+47793030
+
+Von Zitzewitz Silver [2013-Mar-08]

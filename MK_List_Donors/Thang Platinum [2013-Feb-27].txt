@@ -1,0 +1,19 @@
+
+
+[["UZI_SD_EP1","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemToolbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","M4A1_AIM_SD_camo","ItemWatch","Binocular_Vector"],["30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","FoodSteakCooked","Skin_Sniper1_DZ","FoodSteakCooked","ItemSodaCoke","ItemSodaCoke","ItemSodaCoke","ItemBandage","ItemBandage","ItemBandage","ItemBandage","30Rnd_9x19_UZI_SD","30Rnd_9x19_UZI_SD","30Rnd_9x19_UZI_SD","30Rnd_9x19_UZI_SD"]]
+
+["DZ_Backpack_EP1",[["BAF_AS50_scoped"],[1]],[["5Rnd_127x99_as50","ItemMorphine","ItemBloodbag","ItemAntibiotic","ItemHeatPack","ItemPainkiller","FoodSteakCooked","ItemSodaMdew"],[3,2,2,1,1,1,2,2]]]
+
+Rocket_DZ
+
+21
+
+106436358
+
+Thang Platinum [2013-Feb-27]
+
+
+
+NAMALSK:
+[["UZI_SD_EP1","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemToolbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","M4A1_AIM_SD_camo","ItemWatch","Binocular_Vector"],["30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","FoodSteakCooked","Skin_CamoWinterDZN","FoodSteakCooked","ItemSodaCoke","ItemSodaCoke","ItemSodaCoke","ItemBandage","ItemBandage","ItemBandage","ItemBandage","30Rnd_9x19_UZI_SD","30Rnd_9x19_UZI_SD","30Rnd_9x19_UZI_SD","30Rnd_9x19_UZI_SD"]]
+

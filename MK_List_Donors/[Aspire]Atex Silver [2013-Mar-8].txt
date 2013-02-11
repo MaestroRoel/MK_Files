@@ -1,0 +1,15 @@
+Inventory
+
+[["M9SD","NVGoggles","ItemMap","ItemGPS","binocular_vector","ItemWatch","ItemHatchet","ItemCompass","ItemMatchbox","ItemKnife","M4A1_AIM_SD_camo"],["ItemPainkiller","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemMorphine","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD"]]
+
+
+["DZ_ALICE_Pack_EP1",[["M24"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","ItemAntibiotic","FoodSteakCooked"],[2,2,1,1]]]
+
+Sniper1_DZ
+
+
+39
+
+100158406
+
+[Aspire]Atex Silver [2013-Mar-08]

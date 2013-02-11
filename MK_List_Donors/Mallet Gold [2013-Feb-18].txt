@@ -1,0 +1,16 @@
+INVENTORY:
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M4A1_AIM_SD_camo","ItemToolbox","Binocular"],["ItemPainkiller","ItemPainkiller","ItemMorphine","HandGrenade_West","ItemHeatPack","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+
+backpack alice:
+["DZ_Backpack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","FoodSteakCooked","ItemMorphine","ItemBloodbag","Skin_Sniper1_DZ"],[3,2,3,1,1,1]]]
+
+
+Rocket_DZ
+
+26
+
+89706054
+
+
+
+Mallet Gold [2013-Feb-18]

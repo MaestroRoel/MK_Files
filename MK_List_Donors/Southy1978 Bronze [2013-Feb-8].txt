@@ -1,0 +1,17 @@
+
+
+
+INVENTORY:
+[["revolver_gold_EP1","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M4A1_AIM_SD_camo","ItemToolbox","Binocular"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemHeatPack","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","6Rnd_45ACP","6Rnd_45ACP","6Rnd_45ACP","6Rnd_45ACP","ItemBandage"]]
+
+backpack alice:
+["DZ_ALICE_Pack_EP1",[[""],[0]],[["ItemWaterbottle","FoodSteakCooked","ItemMorphine","ItemBloodbag","Skin_Sniper1_DZ"],[2,2,2,2,1]]]
+
+
+Rocket_DZ
+
+60
+
+88514438
+
+Southy1978 Bronze [2013-Feb-8]

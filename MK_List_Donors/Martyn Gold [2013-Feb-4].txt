@@ -1,0 +1,19 @@
+
+
+[["revolver_gold_EP1","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","M4A1_AIM_SD_camo","ItemToolbox","ItemWatch","Binocular_Vector"],["ItemPainkiller","ItemMorphine","ItemHeatPack","ItemPainkiller","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","ItemMorphine","ItemBandage","6Rnd_45ACP","ItemBandage","ItemBandage","6Rnd_45ACP","6Rnd_45ACP","ItemBandage"]]
+
+
+["DZ_Backpack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","HandGrenade_West","Skin_Sniper1_DZ","FoodSteakCooked"],[4,2,1,1,2]]]
+
+
+61743238
+
+62
+
+Martyn Gold [2013-Feb-4]
+
+
+
+Taviana
+
+[["M9SD","NVGoggles","ItemMap","ItemGPS","Binocular_Vector","ItemWatch","ItemHatchet","ItemCompass","ItemMatchbox","ItemKnife","M4A1_AIM_SD_camo"],["30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","ItemPainkiller","ItemPainkiller","ItemMorphine","ItemMorphine","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]

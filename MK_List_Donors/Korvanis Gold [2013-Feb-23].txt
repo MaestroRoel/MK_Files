@@ -1,0 +1,13 @@
+
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","BAF_L85A2_RIS_CWS","ItemToolbox","ItemWatch","Binocular_Vector"],["ItemPainkiller","ItemMorphine","ItemHeatPack","ItemPainkiller","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","ItemMorphine","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+
+["DZ_Backpack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","ItemBloodbag","Skin_Sniper1_DZ","FoodSteakCooked"],[3,3,2,1,3]]]
+
+
+75
+
+id:
+23426246
+
+
+Korvanis Gold [2013-Feb-23]

@@ -1,0 +1,14 @@
+INVENTORY:
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M4A1_AIM_SD_camo","ItemToolbox","Binocular"],["ItemPainkiller","ItemPainkiller","ItemMorphine","HandGrenade_West","ItemHeatPack","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+backpack alice:
+["DZ_ALICE_Pack_EP1",[[""],[]],[["30Rnd_556x45_StanagSD","ItemWaterbottle","FoodSteakCooked","Skin_CamoWinterW_DZN","ItemMorphine","Skin_CamoWinter_DZN","ItemBloodbag"],[3,1,1,1,1,1,1]]]
+
+
+Rocket_DZ
+
+23692294
+16
+
+
+

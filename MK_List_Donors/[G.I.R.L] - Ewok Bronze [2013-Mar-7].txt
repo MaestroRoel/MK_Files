@@ -1,0 +1,16 @@
+INVENTORY:
+
+[["revolver_gold_EP1","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M4A1_AIM_SD_camo","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemHeatPack","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","ItemBandage","6Rnd_45ACP ","6Rnd_45ACP ","6Rnd_45ACP ","6Rnd_45ACP "]]
+
+
+backpack alice:
+["DZ_Backpack_EP1",[[""],[]],[["ItemWaterbottle","ItemBloodbag","Skin_Camo1_DZ","Skin_Sniper1_DZ","ItemEpinephrine","FoodSteakCooked"],[2,2,1,1,2,2]]]
+
+
+Rocket_DZ
+
+56
+
+106309638
+
+[G.I.R.L] Ewok Bronze [2013-Mar-7]

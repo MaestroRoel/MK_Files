@@ -1,0 +1,12 @@
+
+
+
+[["revolver_gold_EP1","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","AKS_GOLD","ItemToolbox","ItemWatch","Binocular_Vector"],["ItemPainkiller","ItemMorphine","ItemHeatPack","ItemPainkiller","30Rnd_762x39_AK47","30Rnd_762x39_AK47","30Rnd_762x39_AK47","ItemMorphine","ItemBandage","ItemBandage","ItemBandage","ItemBandage","6Rnd_45ACP","6Rnd_45ACP","6Rnd_45ACP","6Rnd_45ACP"]]
+
+
+["DZ_ALICE_Pack_EP1",[["M14_EP1"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","HandGrenade_West","Skin_Sniper1_DZ","FoodSteakCooked"],[3,2,1,1,2]]]
+
+73
+91718790
+
+Bodil Silver [2013-Feb-15]

@@ -1,0 +1,21 @@
+
+
+INVENTORY:
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","FN_FAL","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemHeatPack","ItemHeatPack","20Rnd_762x51_FNFAL","20Rnd_762x51_FNFAL","20Rnd_762x51_FNFAL","20Rnd_762x51_FNFAL","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+backpack alice:
+["DZ_Backpack_EP1",[["BAF_AS50_scoped"],[1]],[["5Rnd_127x99_as50","ItemWaterbottle","FoodSteakCooked","Skin_Sniper1_DZ","ItemMorphine","ItemEpinephrine","ItemBloodbag","ItemAntibiotic"],[3,2,3,1,1,1,1,1]]]
+
+CamoWinter_DZN
+
+
+
+81
+
+107212294
+
+ADMIN Mads
+
+
+MK1
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M4A1_HWS_GL","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemHeatPack","ItemHeatPack","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]

@@ -1,0 +1,11 @@
+
+
+[["revolver_gold_EP1","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","M4A1_AIM_SD_camo","ItemToolbox","ItemWatch","Binocular_Vector"],["ItemPainkiller","ItemMorphine","ItemHeatPack","ItemPainkiller","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","ItemMorphine","ItemBandage","6Rnd_45ACP","ItemBandage","ItemBandage","6Rnd_45ACP","6Rnd_45ACP","ItemBandage"]]
+
+["DZ_ALICE_Pack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","HandGrenade_West","ItemWaterbottle","ItemBloodbag","Skin_Sniper1_DZ","FoodSteakCooked"],[4,1,1,2,1,1]]]
+
+
+8
+
+id:
+69554054

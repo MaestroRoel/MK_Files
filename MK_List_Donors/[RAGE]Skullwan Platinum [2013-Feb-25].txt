@@ -1,0 +1,19 @@
+
+
+
+[["UZI_SD_EP1","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemToolbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","BAF_AS50_scoped","ItemWatch","Binocular_Vector"],["5Rnd_127x99_as50","5Rnd_127x99_as50","5Rnd_127x99_as50","5Rnd_127x99_as50","FoodSteakCooked","Skin_Sniper1_DZ","FoodSteakCooked","ItemSodaCoke","ItemSodaCoke","ItemSodaCoke","ItemBandage","ItemBandage","ItemBandage","ItemBandage","30Rnd_9x19_UZI_SD","30Rnd_9x19_UZI_SD","30Rnd_9x19_UZI_SD","30Rnd_9x19_UZI_SD"]]
+
+
+["DZ_Backpack_EP1",[["FN_FAL"],[1]],[["20Rnd_762x51_FNFAL","ItemMorphine","ItemBloodbag","ItemAntibiotic","ItemHeatPack","ItemPainkiller","FoodSteakCooked","ItemSodaMdew"],[3,2,2,1,1,1,2,2]]]
+
+
+
+22
+
+93905350
+
+[RAGE]Skullwan Platinum [2013-Feb-25]
+
+Namalsk
+
+CamoWinter_DZN

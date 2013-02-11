@@ -1,0 +1,11 @@
+INVENTORY:
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","AK_47_M","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemHeatPack","ItemHeatPack","30Rnd_762x39_AK47","30Rnd_762x39_AK47","30Rnd_762x39_AK47","30Rnd_762x39_AK47","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+backpack alice:
+["DZ_ALICE_Pack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","FoodSteakCooked","Skin_Sniper1_DZ","ItemMorphine","ItemEpinephrine","ItemBloodbag","ItemAntibiotic"],[3,1,1,1,1,1,1,1]]]
+
+CamoWinter_DZN
+
+9
+8671942
+

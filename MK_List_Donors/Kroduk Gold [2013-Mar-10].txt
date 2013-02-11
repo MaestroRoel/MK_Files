@@ -1,0 +1,12 @@
+
+[["UZI_EP1","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","G36a","ItemToolbox","ItemWatch","Binocular_Vector"],["ItemPainkiller","ItemMorphine","ItemHeatPack","ItemPainkiller","30Rnd_556x45_G36","30Rnd_556x45_G36","30Rnd_556x45_G36","30Rnd_556x45_G36","ItemMorphine","ItemBandage","ItemBandage","ItemBandage","ItemBandage","30Rnd_9x19_UZI","30Rnd_9x19_UZI","30Rnd_9x19_UZI","30Rnd_9x19_UZI"]]
+
+["DZ_Backpack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","ItemBloodbag","Skin_Sniper1_DZ","FoodSteakCooked","HandGrenade_West"],[3,2,2,1,2,1]]]
+
+
+10
+
+id:
+2914818
+
+Kroduk Gold [2013-Mar-10]

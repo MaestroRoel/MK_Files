@@ -1,0 +1,19 @@
+INVENTORY:
+
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","FN_FAL","ItemToolbox","ItemWatch","Binocular_Vector"],["ItemPainkiller","ItemMorphine","ItemHeatPack","ItemPainkiller","20Rnd_762x51_FNFAL","20Rnd_762x51_FNFAL","20Rnd_762x51_FNFAL","ItemMorphine","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+
+
+
+backpack alice:
+["DZ_ALICE_Pack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","FoodSteakCooked","Skin_Sniper1_DZ","ItemMorphine","ItemBloodbag"],[3,2,2,1,1,1]]]
+
+
+Rocket_DZ
+
+74
+
+4505862
+
+
+MuffinMan Silver [2013-Feb-21]

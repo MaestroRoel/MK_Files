@@ -1,0 +1,16 @@
+INVENTORY:
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M4A1_AIM_SD_camo","ItemToolbox","Binocular"],["ItemPainkiller","ItemPainkiller","ItemMorphine","HandGrenade_West","ItemHeatPack","30Rnd_556x45_StanagaSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+backpack alice:
+["DZ_ALICE_Pack_EP1",[[""],[]],[["ItemWaterbottle","FoodSteakCooked","Skin_Sniper1_DZ","ItemBloodbag","Pipebomb"],[2,2,1,1,1]]]
+
+
+Test Admin Roel
+
+Rocket_DZ
+
+Camo1_DZ
+
+18
+
+87096710

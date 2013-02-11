@@ -1,0 +1,15 @@
+
+
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemToolbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","BAF_L85A2_RIS_CWS","ItemWatch","Binocular_Vector"],["30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","ItemPainkiller","ItemPainkiller","FoodSteakCooked","ItemSodaCoke","ItemSodaCoke","ItemSodaCoke","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+
+
+["DZ_Backpack_EP1",[["BAF_AS50_scoped"],[1]],[["5Rnd_127x99_as50","ItemMorphine","ItemBloodbag","ItemAntibiotic","ItemHeatPack","Skin_Sniper1_DZ","FoodSteakCooked","ItemSodaMdew"],[3,2,2,1,1,1,2,2]]]
+
+
+94547398
+
+
+36
+
+
+Diamond Nader [2013-Jan-29]

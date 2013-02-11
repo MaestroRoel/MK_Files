@@ -1,0 +1,22 @@
+
+
+[["revolver_gold_EP1","NVGoggles","ItemMap","ItemGPS","binocular","ItemWatch","ItemHatchet","ItemCompass","ItemMatchbox","ItemKnife","DMR"],["ItemPainkiller","ItemBandage","ItemBandage","ItemBandage","6Rnd_45ACP","6Rnd_45ACP","6Rnd_45ACP","ItemMorphine","20Rnd_762x51_DMR","20Rnd_762x51_DMR","20Rnd_762x51_DMR"]]
+
+
+["DZ_ALICE_Pack_EP1",[["AKS_GOLD"],[1]],[["30Rnd_762x39_AK47","ItemWaterbottle","HandGrenade_West","Skin_Sniper1_DZ","FoodSteakCooked"],[4,1,1,1,1]]]
+
+
+47
+
+21440134
+
+sM1Le Silver [2013-Feb-4]
+
+
+
+taviana server
+
+[["Colt1911","NVGoggles","ItemMap","ItemGPS","binocular","ItemWatch","ItemHatchet","ItemCompass","ItemMatchbox","ItemKnife","DMR"],["ItemPainkiller","ItemBandage","ItemBandage","ItemBandage","7Rnd_45ACP_1911","7Rnd_45ACP_1911","7Rnd_45ACP_1911","7Rnd_45ACP_1911","ItemMorphine","20Rnd_762x51_DMR","20Rnd_762x51_DMR","20Rnd_762x51_DMR"]]
+
+
+["DZ_ALICE_Pack_EP1",[["M4A1_AIM_SD_camo"],[1]],[["30Rnd_556x45_StanagSD","ItemWaterbottle","HandGrenade_West","Skin_Sniper1_DZ","FoodSteakCooked"],[4,1,1,1,1]]]

@@ -1,0 +1,16 @@
+INVENTORY:
+
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M4A1_AIM_SD_camo","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemHeatPack","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+
+
+backpack alice:
+["DZ_Backpack_EP1",[["DMR"],[1]],[["ItemWaterbottle","ItemBloodbag","Skin_Camo1_DZ","Skin_Sniper1_DZ","ItemEpinephrine","FoodSteakCooked","20Rnd_762x51_DMR"],[2,1,1,1,1,2,3]]]
+
+
+Rocket_DZ
+
+42
+
+97306118
+
+Modulstyle [2013-Feb-02]

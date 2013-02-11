@@ -1,0 +1,12 @@
+
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","BAF_L85A2_RIS_CWS","ItemToolbox","ItemWatch","Binocular_Vector"],["ItemPainkiller","ItemMorphine","ItemHeatPack","ItemPainkiller","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","ItemMorphine","ItemBandage","15Rnd_9x19_M9SD","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+["DZ_Backpack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","ItemBloodbag","Skin_CamoWinter_DZN","FoodSteakCooked","HandGrenade_West"],[3,2,2,1,2,2]]]
+
+
+66
+
+id:
+10938694
+
+ADMIN Wson

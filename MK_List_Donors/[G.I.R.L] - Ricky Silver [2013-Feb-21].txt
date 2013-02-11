@@ -1,0 +1,21 @@
+INVENTORY:
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","BAF_AS50_scoped","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemMorphine","ItemHeatPack","5Rnd_127x99_as50","5Rnd_127x99_as50","5Rnd_127x99_as50","5Rnd_127x99_as50","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+backpack alice:
+["DZ_Backpack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","FoodSteakCooked","Skin_Sniper1_DZ","ItemMorphine","ItemEpinephrine","ItemBloodbag"],[3,1,2,1,1,1,1]]]
+
+
+Soldier1_DZ
+
+19
+
+73054726
+
+
+[G.I.R.L] - Ricky Platinum [2013-Feb-21]
+
+Namalsk
+
+CamoWinterW_DZN
+
+["DZ_Backpack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","FoodSteakCooked","Skin_CamoWinter_DZN","ItemMorphine","ItemEpinephrine","ItemBloodbag"],[3,1,2,1,1,1,1]]]

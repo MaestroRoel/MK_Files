@@ -1,0 +1,20 @@
+INVENTORY:
+
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M4A1_AIM_SD_camo","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemHeatPack","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+
+backpack alice:
+["DZ_Backpack_EP1",[["BAF_AS50_scoped"],[1]],[["ItemWaterbottle","ItemBloodbag","Skin_Camo1_DZ","ItemEpinephrine","FoodSteakCooked","10Rnd_127x99_m107","HandGrenade_West"],[2,2,1,2,2,4,1]]]
+
+
+Rocket_DZ
+
+87
+
+77759942
+
+LazyLays Platinum[2013-Mar-5]
+
+
+Namalsk
+["DZ_Backpack_EP1",[["BAF_AS50_scoped"],[1]],[["ItemWaterbottle","ItemBloodbag","Skin_CamoWinter_DZN","Skin_Sniper1_DZ","ItemEpinephrine","FoodSteakCooked","10Rnd_127x99_m107"],[2,2,1,1,2,2,4]]]

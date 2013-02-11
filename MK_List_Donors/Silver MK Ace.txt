@@ -1,0 +1,18 @@
+
+
+
+
+
+INVENTORY:
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","DMR","ItemToolbox","binocular_vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","HandGrenade_West","ItemHeatPack","20Rnd_762x51_DMR","20Rnd_762x51_DMR","20Rnd_762x51_DMR","20Rnd_762x51_DMR","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+backpack alice:
+["DZ_ALICE_Pack_EP1",[["M4A1_AIM_SD_camo"],[1]],[["30Rnd_556x45_StanagSD","ItemWaterbottle","FoodSteakCooked","ItemMorphine","Skin_Sniper1_DZ","ItemBloodbag"],[3,1,1,1,1,1]]]
+
+
+
+35
+74857862
+
+Silver MK Ace [2013- Jan-28]
+
