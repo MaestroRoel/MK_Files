@@ -1,0 +1,16 @@
+INVENTORY:
+
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M24","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemHeatPack","5Rnd_762x51_M24","5Rnd_762x51_M24","5Rnd_762x51_M24","ItemMorphine","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+
+Backpack:
+["DZ_Backpack_EP1",[["DMR"],[1]],[["ItemWaterbottle","ItemBloodbag","Skin_Soldier1_DZ","Skin_Sniper1_DZ","FoodSteakCooked","20Rnd_762x51_DMR"],[2,1,1,1,3,3]]]
+
+
+Rocket_DZ
+
+12
+
+75103686
+
+Thedeedguy Gold [2013-Mar-15]
