@@ -9,13 +9,13 @@ publicvariable "moderators";
 //106436358=Thang
 //92009926=dano
 
-administrators = ["64100486"];
+administrators = [""];
 publicvariable "administrators";
-//64100486=INeverEpic
 
-serverAdministrators = ["82568454", "4348166", "46360582", "82558598", "1037378", "94774470", "87096710", "14184454", "73821126", "6348550", "61778886", "68861254"];
+
+serverAdministrators = ["82568454", "4348166", "46360582", "82558598", "1037378", "94774470", "87096710", "14184454", "73821126", "6348550", "61778886", "68861254", "64100486"];
 publicvariable "serverAdministrators";
-//Haze=82568454, Silent=82558598, Equiery=46360582, Mathias=14184454, Roel=87096710, Gareth=73821126, Striker=1037378, ??=4348166, ??=94774470, 61778886=Nanalew, 68861254=Dabak
+//Haze=82568454, Silent=82558598, Equiery=46360582, Mathias=14184454, Roel=87096710, Gareth=73821126, Striker=1037378, ??=4348166, ??=94774470, 61778886=Nanalew, 68861254=Dabak, 64100486=INeverEpic
 
 //Add bronze donator UID here
 donatorsbronze = ["1288962", "82006534", "37313158"];
