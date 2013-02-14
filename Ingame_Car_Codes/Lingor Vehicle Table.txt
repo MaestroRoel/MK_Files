@@ -1,0 +1,63 @@
+1       UAZ_Unarmed_TK_EP1
+2       UAZ_Unarmed_TK_CIV_EP1
+3       UAZ_Unarmed_UN_EP1
+4       UAZ_RU
+5       ATV_US_EP1
+6       ATV_CZ_EP1
+7       SkodaBlue
+8       Skoda
+9       SkodaGreen
+10      TT650_Ins
+11      TT650_TK_EP1
+12      TT650_Tk_CIV_EP1
+13      Old_bike_TK_CIV_EP1
+14      Old_bike_TK_INS_EP1
+16      hilux1_civil_3_open
+17      Ikarus_TK_CIV_EP1
+18      Ikarus
+19      Tractor
+20      S1203_TK_CIV_EP1
+21      V3S_Civ
+22      UralCivil
+23      car_hatchback
+24      Fishing_Boat
+25      PBX
+26      Smalllboat_1
+27      Volha
+28      Volha_1_TK_CIV_EP1
+29      SUV_TK_CIV_EP1
+30      car_sedan
+56      BAF_Offroad_D
+57      BAF_Offroad_W
+93      HMMWV_DZ
+
+
+Choppers/Airplane
+
+15      UH1H_DZ
+53      AH6X_DZ
+54      Mi17_DZ
+55      AN2_DZ
+92      MH6J_DZ
+
+[[[], []], [["PartFueltank", "PartWheel"], [1, 1]], [[], []]]
+
+[[[], []], [["PartEngine", "ItemJerrycan"], [1, 1]], [[], []]]
+
+[[["Makarov"], [1]], [["FoodCanBakedBeans,ItemJerrycan"], [3,3]], [[], []]]
+ 5.9.145.239:9302
+
+hilux1_civil_3_open_EP1
+
+
+
+broken chopper
+
+parts: [["glass1",0.701],["glass2",1],["glass3",1],["glass4",1],["glass5",1],["motor",0.8],["elektronika",0.772],["mala vrtule",0.051],["velka vrtule",1]]
+
+
+damage: 0.0551180988550186
+
+Low Fuel: 0.028999999165534973  // 0.12451600283384323
+
+fueal a bit half full: 0.4768190085887909
