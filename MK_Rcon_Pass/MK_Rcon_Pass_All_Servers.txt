@@ -14,4 +14,6 @@ W-Takistan, MK6: WinterRain
 
 Takistan, MK7: WinterFog
 
-Lingor, MK8: WinterWind
+Isladuala, MK9: WinterIsland
+
+Lingor, MK10: WinterWind
