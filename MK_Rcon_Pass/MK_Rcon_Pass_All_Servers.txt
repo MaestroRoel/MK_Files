@@ -4,7 +4,7 @@ Chernarus, MK1: WinterStorm
 
 Namalsk, MK2: WinterSleep
 
-Taviana, MK3: WinterSnow
+Lingor, MK3: WinterSnow
 
 Wasteland, MK4: WinterSummer
 
