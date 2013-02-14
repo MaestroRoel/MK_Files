@@ -6,7 +6,7 @@ INVENTORY:
 backpack alice:
 ["DZ_Backpack_EP1",[["BAF_AS50_scoped"],[1]],[["5Rnd_127x99_as50","ItemWaterbottle","FoodSteakCooked","Skin_Sniper1_DZ","ItemMorphine","ItemEpinephrine","ItemBloodbag","ItemAntibiotic"],[3,2,3,1,1,1,1,1]]]
 
-CamoWinter_DZN
+CamoWinterW_DZN
 
 
 
