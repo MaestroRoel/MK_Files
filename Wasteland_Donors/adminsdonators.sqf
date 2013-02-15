@@ -12,7 +12,6 @@ publicvariable "moderators";
 administrators = [""];
 publicvariable "administrators";
 
-
 serverAdministrators = ["82568454", "4348166", "46360582", "82558598", "1037378", "94774470", "87096710", "14184454", "73821126", "6348550", "61778886", "68861254", "64100486"];
 publicvariable "serverAdministrators";
 //Haze=82568454, Silent=82558598, Equiery=46360582, Mathias=14184454, Roel=87096710, Gareth=73821126, Striker=1037378, ??=4348166, ??=94774470, 61778886=Nanalew, 68861254=Dabak, 64100486=INeverEpic
@@ -54,8 +53,6 @@ publicvariable "donatorsgold";
 //45157638=Jailbait_Assface Gold [2013-Feb-12]
 //94624390=Bronson Gold[2013-Mar-16]
 
-
-
 //Add gold stealth donator UID here
 donatorsgoldstealth = ["10853638", "15318342", "75103686"];
 publicvariable "donatorsgoldstealth";
@@ -64,8 +61,7 @@ publicvariable "donatorsgoldstealth";
 //75103686=Thedeedguy[2013-Mar-15]
 
 //Add Platinum Donator UID here
-donatorsdiamond = ["94177606", "6348550", "93675654", "6855044", "6846916", "87422470", "72365382", "106436358", "103919430", "64667270", "25920262", "77235590", "
-92625414"];
+donatorsdiamond = ["94177606", "6348550", "93675654", "6855044", "6846916", "87422470", "72365382", "106436358", "103919430", "64667270", "25920262", "77235590", "92625414"];
 publicvariable "donatorsdiamond";
 //93675654=[BAM]Sgt. Raz[2013-Feb-14]
 //6855044=Dunnachie[2013-Feb-15]
@@ -79,7 +75,6 @@ publicvariable "donatorsdiamond";
 //77235590=[EW]PaaainKiller[2013-Mar-13]
 //94177606=Cheeze[2013-Mar-15]
 //92625414=Darkfallen[2013-Feb-25]
-
 
 //Add Platinum stealth donator UID here
 donatorsdiamondstealth = ["73821126", "94774470", "73054726"];
