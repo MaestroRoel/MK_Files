@@ -1,0 +1,809 @@
+<?xml version="1.0"?>
+<Scheduler>
+  <!-- INTERNAL COMMANDS -->
+  <job id="0">
+    <time>05:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 hours</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="1">
+    <time>06:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 hour</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="2">
+    <time>06:15</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 45 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="3">
+    <time>06:30</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 30 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="4">
+    <time>06:45</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 15 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="5">
+    <time>06:50</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 10 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="6">
+    <time>06:55</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 05 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="7">
+    <time>06:57</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 03 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="8">
+    <time>06:58</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="9">
+    <time>06:59</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 minute</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="10">
+    <time>07:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>#shutdown</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="11">
+    <time>07:30</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 hours</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="12">
+    <time>08:30</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 hour</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="13">
+    <time>08:45</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 45 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="14">
+    <time>09:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 30 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="15">
+    <time>09:15</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 15 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="16">
+    <time>09:20</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 10 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="17">
+    <time>09:25</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 05 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="18">
+    <time>09:27</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 03 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="19">
+    <time>09:28</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="20">
+    <time>09:29</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 minute</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="21">
+    <time>09:30</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>#shutdown</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="22">
+    <time>10:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 hours</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="23">
+    <time>11:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 hour</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="24">
+    <time>11:15</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 45 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="25">
+    <time>11:30</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 30 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="26">
+    <time>11:45</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 15 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="27">
+    <time>11:50</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 10 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="28">
+    <time>11:55</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 05 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="29">
+    <time>11:57</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 03 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="30">
+    <time>11:58</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="31">
+    <time>11:59</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 minute</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="32">
+    <time>12:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>#shutdown</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="33">
+    <time>12:30</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 hours</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="34">
+    <time>13:30</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 hour</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="35">
+    <time>13:45</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 45 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="36">
+    <time>14:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 30 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="37">
+    <time>14:15</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 15 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="38">
+    <time>14:20</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 10 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="39">
+    <time>14:25</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 05 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="40">
+    <time>14:27</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 03 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="41">
+    <time>14:28</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="42">
+    <time>14:29</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 minute</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="43">
+    <time>14:30</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>#shutdown</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="44">
+    <time>15:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 hours</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="45">
+    <time>16:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 hour</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="46">
+    <time>16:15</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 45 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="47">
+    <time>16:30</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 30 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="48">
+    <time>16:45</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 15 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="49">
+    <time>16:50</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 10 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="50">
+    <time>16:55</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 05 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="51">
+    <time>16:57</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 03 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="52">
+    <time>16:58</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="53">
+    <time>16:59</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 minute</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="54">
+    <time>17:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>#shutdown</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="55">
+    <time>17:30</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 hours</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="56">
+    <time>18:30</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 hour</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="57">
+    <time>18:45</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 45 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="58">
+    <time>19:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 30 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="59">
+    <time>19:15</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 15 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="60">
+    <time>19:20</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 10 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="61">
+    <time>19:25</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 05 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="62">
+    <time>19:27</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 03 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="63">
+    <time>19:28</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="64">
+    <time>19:29</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 minute</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="65">
+    <time>19:30</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>#shutdown</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="66">
+    <time>20:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 hours</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="67">
+    <time>21:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 hour</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="68">
+    <time>21:15</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 45 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="69">
+    <time>21:30</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 30 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="70">
+    <time>21:45</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 15 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="71">
+    <time>21:50</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 10 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="72">
+    <time>21:55</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 05 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="73">
+    <time>21:57</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 03 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="74">
+    <time>21:58</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="75">
+    <time>21:59</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 minute</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="76">
+    <time>22:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>#shutdown</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="77">
+    <time>22:30</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 hours</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="78">
+    <time>00:30</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 hour</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="79">
+    <time>00:45</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 45 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="80">
+    <time>00:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 30 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="81">
+    <time>00:15</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 15 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="82">
+    <time>00:20</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 10 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="83">
+    <time>00:25</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 05 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="84">
+    <time>00:27</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 03 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="85">
+    <time>00:28</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="86">
+    <time>00:29</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 minute</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="87">
+    <time>00:30</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>#shutdown</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="88">
+    <time>01:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 hours</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="89">
+    <time>02:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 hour</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="90">
+    <time>02:15</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 45 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="91">
+    <time>02:30</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 30 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="92">
+    <time>02:45</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 15 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="93">
+    <time>02:50</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 10 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="94">
+    <time>02:55</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 05 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="95">
+    <time>02:57</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 03 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="96">
+    <time>02:58</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 02 minutes</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="97">
+    <time>02:59</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>say -1 Restart in 01 minute</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="98">
+    <time>03:00</time>
+    <day>1,2,3,4,5,6,7</day>
+    <loop>1</loop>
+     <cmd>#shutdown</cmd>
+    <cmdtype>0</cmdtype>
+</job>
+<job id="99">     
+	<time>000500</time>
+	<delay>000000</delay>
+	<day>1,2,3,4,5,6,7</day>        
+	<loop>0</loop>         
+	<cmd>say -1 For More Info And Recent Updates: Visit mercykillers.eu</cmd>
+	<cmdtype>0</cmdtype>
+</job>
+<job id="100">     
+	<time>000501</time>
+	<delay>000001</delay>
+	<day>1,2,3,4,5,6,7</day>        
+	<loop>0</loop>         
+	<cmd>say -1 DONT TALK IN SIDE CHANNEL!!! Join Our Teamspeak: mk.ts.verthosting.com:9994</cmd>
+	<cmdtype>0</cmdtype>
+</job>
+<job id="101">     
+	<time>000502</time>
+	<delay>000002</delay>
+	<day>1,2,3,4,5,6,7</day>        
+	<loop>0</loop>         
+	<cmd>say -1 There is most of the time a Admin online on Teamspeak, so join if help is needed</cmd>
+	<cmdtype>0</cmdtype>
+</job>
+<job id="102">     
+	<time>003000</time>
+	<delay>000000</delay>
+	<day>1,2,3,4,5,6,7</day>        
+	<loop>0</loop>         
+	<cmd>say -1 You Tired of Losing your Gear? Donate and you will spawn with Top Gear every time you Respawn</cmd>
+	<cmdtype>0</cmdtype>
+</job>
+<job id="103">     
+	<time>003001</time>
+	<delay>000001</delay>
+	<day>1,2,3,4,5,6,7</day>        
+	<loop>0</loop>         
+	<cmd>say -1 More Info How To Donate, check mercykillers.eu, you will be Rewarded</cmd>
+	<cmdtype>0</cmdtype>
+</job>
+<job id="104">     
+	<time>005500</time>
+	<delay>000000</delay>
+	<day>1,2,3,4,5,6,7</day>        
+	<loop>0</loop>         
+	<cmd>say -1 We Also Have NAMALSK,TAVIANA and a PANTHERA Server, Filter mercykillers.eu and you will see them</cmd>
+	<cmdtype>0</cmdtype>
+</job>
+<job id="105">     
+	<time>005501</time>
+	<delay>000001</delay>
+	<day>1,2,3,4,5,6,7</day>        
+	<loop>0</loop>         
+	<cmd>say -1 DONT TALK IN SIDE CHANNEL !!! Join Our Teamspeak: mk.ts.verthosting.com:9994</cmd>
+	<cmdtype>0</cmdtype>
+</job>
+<job id="106">     
+	<time>005502</time>
+	<delay>000002</delay>
+	<day>1,2,3,4,5,6,7</day>        
+	<loop>0</loop>         
+	<cmd>say -1 Server Restarts Every 2,5 hours with Several Warnings</cmd>
+	<cmdtype>0</cmdtype>
+</job>
+<job id="107">     
+	<time>008000</time>
+	<delay>000000</delay>
+	<day>1,2,3,4,5,6,7</day>        
+	<loop>0</loop>         
+	<cmd>say -1 Tired of Losing Gear? Donate and you will be Rewarded, You will spawn With Top Gear every time you die</cmd>
+	<cmdtype>0</cmdtype>
+</job>
+<job id="108">     
+	<time>008001</time>
+	<delay>000001</delay>
+	<day>1,2,3,4,5,6,7</day>        
+	<loop>0</loop>         
+	<cmd>say -1 More Info How To Donate: Visit mercykillers.eu</cmd>
+	<cmdtype>0</cmdtype>
+</job>
+<job id="109">     
+	<time>014500</time>
+	<delay>000000</delay>
+	<day>1,2,3,4,5,6,7</day>        
+	<loop>0</loop>         
+	<cmd>say -1 Filter mercykillers.eu in DayzCommander and You will see our 2 Other Servers</cmd>
+	<cmdtype>0</cmdtype>
+</job>
+<job id="110">     
+	<time>014501</time>
+	<delay>000001</delay>
+	<day>1,2,3,4,5,6,7</day>        
+	<loop>0</loop>         
+	<cmd>say -1 [MK2]NAMALSK + [MK3]TAVIANA + [MK5]PANTHERA, Filter mercykillers.eu to find them</cmd>
+	<cmdtype>0</cmdtype>
+</job>
+<job id="111">     
+	<time>021000</time>
+	<delay>000000</delay>
+	<day>1,2,3,4,5,6,7</day>        
+	<loop>0</loop>         
+	<cmd>say -1 Donate To Help Running, And We Will Let You Spawn With Top Gear, no joke</cmd>
+	<cmdtype>0</cmdtype>
+</job>
+<job id="112">     
+	<time>021001</time>
+	<delay>000001</delay>
+	<day>1,2,3,4,5,6,7</day>        
+	<loop>0</loop>         
+	<cmd>say -1 More Info How To Donate, Check mercykillers.eu</cmd>
+	<cmdtype>0</cmdtype>
+</job>
+</Scheduler>
