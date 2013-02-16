@@ -1,3 +1,0 @@
-["DZ_Backpack_EP1",[["DMR"],[1]],[["ItemWaterbottle","ItemBloodbag","ItemTankTrap","ItemWire","FoodSteakCooked","20Rnd_762x51_DMR","TrapBear"],[2,2,1,1,4,3,1]]]
-
-[["BAF_L85A2_RIS_CWS","NVGoggles","Binocular_Vector","M9SD","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","ItemToolbox"],["ItemPainkiller","ItemMorphine","ItemMorphine","ItemPainkiller","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
