@@ -8,7 +8,7 @@ publicvariable "moderators";
 //61743238=Martyn
 //106436358=Thang
 //92009926=dano
-
+ 
 administrators = [""];
 publicvariable "administrators";
 
@@ -53,7 +53,7 @@ publicvariable "donatorsgoldstealth";
 //75103686=Thedeedguy[2013-Mar-15]
 
 //Add Platinum Donator UID here
-donatorsdiamond = ["94177606", "6348550", "87422470", "72365382", "106436358", "103919430", "64667270", "25920262", "77235590", "92625414"];
+donatorsdiamond = ["94177606", "6348550", "87422470", "72365382", "106436358", "103919430", "64667270", "25920262", "77235590", "92625414", "110439686"];
 publicvariable "donatorsdiamond";
 //87422470=Hooligan[2013-Feb-19]
 //72365382=saveus626[2013-Feb-24]
@@ -64,6 +64,7 @@ publicvariable "donatorsdiamond";
 //77235590=[EW]PaaainKiller[2013-Mar-13]
 //94177606=Cheeze[2013-Mar-15]
 //92625414=Darkfallen[2013-Feb-25]
+//110439686=Nobcheese platinum [2013-Mar-15]
 
 //Add Platinum stealth donator UID here
 donatorsdiamondstealth = ["73821126", "94774470", "73054726"];
