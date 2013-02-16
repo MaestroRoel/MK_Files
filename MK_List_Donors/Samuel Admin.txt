@@ -1,0 +1,13 @@
+[["M9SD","NVGoggles","ItemMap","ItemGPS","binocular","ItemWatch","ItemHatchet","ItemCompass","ItemMatchbox","ItemKnife","M4A1_Aim"],["30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","ItemPainkiller","ItemPainkiller","ItemMorphine","ItemMorphine","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+
+["DZ_Backpack_EP1",[["BAF_AS50_scoped"],[1]],[["5Rnd_127x99_as50","ItemWaterbottle","FoodSteakCooked","Skin_Sniper1_DZ","ItemMorphine","ItemEpinephrine","ItemBloodbag","ItemAntibiotic"],[3,2,3,1,1,1,1,1]]]
+
+
+92
+
+17916550
+
+
+Rocket_DZ
+
+Samuel Admin
