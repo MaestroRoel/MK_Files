@@ -2,9 +2,9 @@ Rcon Pass all server
 
 Chernarus, MK1: WinterStorm
 
-Namalsk, MK2: WinterSleep
+Namalsk, MK2: WinterTree
 
-Lingor, MK3: WinterSnow
+Lingor, MK3: WinterChill
 
 Wasteland, MK4: WinterSummer
 
