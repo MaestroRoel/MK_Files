@@ -1,0 +1,18 @@
+Edit by Cheeze, Feb 18
+
+
+
+MK1,MK2,MK Takistan
+
+[["M9SD","NVGoggles","ItemMap","ItemWatch","ItemHatchet","ItemCompass","ItemMatchbox","ItemGPS","ItemKnife"],["ItemPainkiller","ItemMorphine","Skin_Camo1_DZ","Skin_Soldier1_DZ","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage","ItemBandage","ItemBandage","ItemBandage"]]
+
+
+["DZ_ALICE_Pack_EP1",[["M16A4_ACOG"],[1]],[["30Rnd_556x45_Stanag","ItemWaterbottle","FoodSteakCooked"],[3,2,1]]]
+
+Warm Clothing
+
+15
+
+65910086
+
+Lukas D Bronze [2013-Mar-19]
