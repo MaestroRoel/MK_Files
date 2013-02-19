@@ -8,30 +8,30 @@
 8		Skoda					887		[303,[8528.39,11227.4,0.001]]		Jlovisko1 85/15
 9		SkodaGreen				888		[269,[8247.5,11404.3,0.001]]		Jalovski2 82/13
 16		hilux1_civil_3_open		889		[270,[7995.5,8934.97,0.001]]		Nmens Factory3 79/38
-20		S1203_TK_CIV_EP1		894		[266,[6815.67,10011.3,0]]			Sebjan Field Airport 68/27
-23		car_hatchback			890		[334,[7841.19,8478.53,-3.815e-06]]	Nemsk Factory 78/43
-29		SUV_TK_CIV_EP1			891		[1,[5253.57,9747.87,0.002]]			lubjansk bay 52/30
-81		VWGolf					892		[304,[3069.87,7987.26,9.537e-07]]	Object A1 30/48
-33		LandRover_CZ_EP1		893		[170,[4673.12,10515,-1.907e-06]]	Northern Army Base 46/22
+20		S1203_TK_CIV_EP1		890		[266,[6815.67,10011.3,0]]			Sebjan Field Airport 68/27
+23		car_hatchback			891		[334,[7841.19,8478.53,-3.815e-06]]	Nemsk Factory 78/43
+29		SUV_TK_CIV_EP1			892		[1,[5253.57,9747.87,0.002]]			lubjansk bay 52/30
+81		VWGolf					893		[304,[3069.87,7987.26,9.537e-07]]	Object A1 30/48
+33		LandRover_CZ_EP1		894		[170,[4673.12,10515,-1.907e-06]]	Northern Army Base 46/22
 31		hilux1_civil_3_open_EP1	895		[21,[6883.49,10011.5,0.001]]		Brensk 45/79				[[[], []], [["PartEngine", "ItemJerrycan"], [1, 1]], [[], []]]
 69		LadaLM					896		[238,[4969.77,11304.7,0]]			Lubjansk 49/14
 62		datsun1_civil_2_covered	897		[215,[6208.07,5965.46,0]]			Tara Bridge 62/68			[[[], []], [["PartFueltank", "PartWheel"], [1, 1]], [[], []]]
 58		datsun1_civil_3_open	898		[284,[2336.03,5756.92,0]]			West Point 23/70
 64		hilux1_civil_1_open		899		[271,[7385.53,11797,0.002]]			Vorkuta North 73/10
-19		vwgOLF					892		[196,[5611.68,5400.63,0.002]]		Nitija Tower [56/73]
-32		UralCivil2				907		[49,[4384.98,11052.8,-9.537e-07]]	Lubjansk [43/17]
-65		hilux1_civil_2_covered	908		[296,[3183.84,7606.18,7.629e-06]]	Norinsk Tunnel [31/51]
-21		V3S_Civ					909		[330,[7371.53,10185.1,1.907e-06]]	Vorkuta Outskirts[73/26]
-77		SkodaRed				910		[179,[5038.38,10550.5,0.002]]		Lunjansk Bay [50/22]
-81		VWGolf					911		[319,[5806.27,11531.5,0.002]]		Vorkuta March [58/12]
-66		Lada					912		[300,[6655.41,8438.1,0.002]]		Street Old Hospital
+81		VWGolf					900		[196,[5611.68,5400.63,0.002]]		Nitija Tower [56/73]
+32		UralCivil2				901		[49,[4384.98,11052.8,-9.537e-07]]	Lubjansk [43/17]
+65		hilux1_civil_2_covered	902		[296,[3183.84,7606.18,7.629e-06]]	Norinsk Tunnel [31/51]
+21		V3S_Civ					903		[330,[7371.53,10185.1,1.907e-06]]	Vorkuta Outskirts[73/26]
+77		SkodaRed				904		[179,[5038.38,10550.5,0.002]]		Lunjansk Bay [50/22]
+81		VWGolf					905		[319,[5806.27,11531.5,0.002]]		Vorkuta March [58/12]
+66		Lada					906		[300,[6655.41,8438.1,0.002]]		Street Old Hospital
 
 Choppers/Airplane
-53		AH6X_DZ					901,902	[304,[4883.87,6048.1,0.001]]		brensk railway staion 48/67				
-55		AN2_DZ					903		[180,[6264.01,9626.88,0.001]]		AIRFIELD1 antanov 62/31
-55		AN2_DZ					904		[180,[6213.46,9613.37,0.001]]		AIRFIELD2 antanov 62/31
-54		Mi17_DZ					905		[134,[6287.46,9390.66,0.001]]		Airfield Helipad 62/34
-15		UH1H_DZ					906		[332,[6849.72,11362.5,12.247]]		Vorkuda Construction side 68/14
+53		AH6X_DZ					875		[304,[4883.87,6048.1,0.001]]		brensk railway staion 48/67				
+55		AN2_DZ					876		[180,[6264.01,9626.88,0.001]]		AIRFIELD1 antanov 62/31
+55		AN2_DZ					877		[180,[6213.46,9613.37,0.001]]		AIRFIELD2 antanov 62/31
+54		Mi17_DZ					878		[134,[6287.46,9390.66,0.001]]		Airfield Helipad 62/34
+15		UH1H_DZ					879		[332,[6849.72,11362.5,12.247]]		Vorkuda Construction side 68/14
 
 
 
