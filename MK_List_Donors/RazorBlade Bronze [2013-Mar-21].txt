@@ -1,0 +1,13 @@
+
+
+
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","LeeEnfield","ItemToolbox","ItemWatch","Binocular_Vector"],["ItemPainkiller","ItemMorphine","ItemHeatPack","10x_303","10x_303","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+
+
+["DZ_ALICE_Pack_EP1",[[""],[]],[["ItemWaterbottle","HandGrenade_West","Skin_Sniper1_DZ","FoodSteakCooked","ItemSodaMdew","Bloodbag"],[1,2,1,1,1,1]]]
+
+61
+
+73971398 
+
+Knapp Bronze [2013-Mar-21]
