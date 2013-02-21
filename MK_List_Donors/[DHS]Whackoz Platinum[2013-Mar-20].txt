@@ -2,7 +2,7 @@ Edit by Cheeze, Feb 19
 
 INVENTORY:
 
-[["G36k_camo","M9SD","NVGoggles","Binocular_Vector","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","ItemToolbox","ItemWatch"],["ItemPainkiller","ItemMorphine","ItemMorphine","ItemPainkiller","30Rnd_556x45_G36","30Rnd_556x45_G36","30Rnd_556x45_G36","30Rnd_556x45_G36","30Rnd_556x45_G36","ItemAntibiotic","HandGrenade_West","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+[["M14_EP1","M9SD","NVGoggles","Binocular_Vector","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","ItemToolbox","ItemWatch"],["ItemPainkiller","ItemMorphine","ItemMorphine","ItemPainkiller","20Rnd_762x51_DMR","20Rnd_762x51_DMR","20Rnd_762x51_DMR","20Rnd_762x51_DMR","ItemAntibiotic","HandGrenade_West","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
 
 
 backpack alice:
