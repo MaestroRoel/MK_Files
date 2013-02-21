@@ -70,7 +70,8 @@ publicvariable "donatorsdiamond";
 //2376390=Squeekie[2013-Mar-5]
 
 //Add Platinum stealth donator UID here
-donatorsdiamondstealth = ["73821126", "94774470", "73054726"];
+donatorsdiamondstealth = ["73821126", "94774470", "73054726", "26693382"];
 publicvariable "donatorsdiamondstealth";
 //106436358=Thang[2013-Feb-27]
 //73054726=[G.I.R.L]-Ricky Platinum[2013-Feb-21]
+//26693382=Bambish0[2013-Mar-23]
