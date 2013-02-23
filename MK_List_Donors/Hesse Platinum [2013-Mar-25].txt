@@ -1,0 +1,16 @@
+
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M4A1_AIM_SD_camo","ItemToolbox","binocular_vector"],["ItemBloodbag","ItemPainkiller","ItemPainkiller","ItemMorphine","ItemMorphine","HandGrenade_West","ItemHeatPack","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+
+
+["DZ_Backpack_EP1",[["BAF_AS50_scoped"],[1]],[["10Rnd_127x99_m107","ItemWaterbottle","FoodSteakCooked","Skin_Sniper1_DZ","ItemMorphine","ItemBloodbag"],[3,2,2,1,1,1]]]
+
+
+
+
+101
+
+46873158
+
+Rocket_DZ
+
+Hesse Platinum [2013-Mar-25]
