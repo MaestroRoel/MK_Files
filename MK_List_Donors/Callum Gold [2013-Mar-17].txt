@@ -14,3 +14,8 @@ Rocket_DZ
 3919302
 
 Callum Gold [2013-Mar-17]
+
+
+
+MK5
+[["UZI_EP1","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","BAF_L85A2_RIS_CWS","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemHeatPack","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","30Rnd_9x19_UZI","30Rnd_9x19_UZI","30Rnd_9x19_UZI","30Rnd_9x19_UZI","ItemBandage"]]
