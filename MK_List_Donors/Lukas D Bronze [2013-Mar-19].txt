@@ -9,6 +9,10 @@ MK1,MK2,MK Takistan
 
 ["DZ_ALICE_Pack_EP1",[["M16A4_ACOG"],[1]],[["30Rnd_556x45_Stanag","ItemWaterbottle","FoodSteakCooked"],[3,2,1]]]
 
+MK1
+["DZ_ALICE_Pack_EP1",[["Sa58V_CCO_EP1"],[1]],[["30Rnd_762x39_AK47","ItemWaterbottle","FoodSteakCooked"],[3,2,1]]]
+
+
 Warm Clothing
 
 15
