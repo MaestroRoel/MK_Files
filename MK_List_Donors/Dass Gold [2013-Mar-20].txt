@@ -1,4 +1,4 @@
-Edit by Cheeze, Feb 19
+Edit by Cheeze, Feb 25
 
 
 INVENTORY:
@@ -7,7 +7,7 @@ INVENTORY:
 
 
 backpack Coyote:
-["DZ_Backpack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","Skin_Sniper1_DZ","ItemHeatPack","FoodSteakCooked","ItemWaterbottle"],[3,2,1,3,3]]]
+["DZ_Backpack_EP1",[["SVD_CAMO"],[1]],[["10Rnd_762x54_SVD","Skin_Sniper1_DZ","ItemHeatPack","FoodSteakCooked","ItemWaterbottle"],[4,2,1,3,3]]]
 
 
 Rocket_DZ
