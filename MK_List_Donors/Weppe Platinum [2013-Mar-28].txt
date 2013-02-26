@@ -1,0 +1,14 @@
+Edit by Cheeze, Feb 26
+
+
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","BAF_AS50_scoped","ItemToolbox","ItemWatch","Binocular_Vector"],["ItemPainkiller","ItemMorphine","ItemHeatPack","ItemPainkiller","5Rnd_127x99_as50","5Rnd_127x99_as50","5Rnd_127x99_as50","5Rnd_127x99_as50","ItemMorphine","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+["DZ_Backpack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","ItemBloodbag","Skin_Sniper1_DZ","FoodSteakCooked","HandGrenade_West","ItemSodaMdew"],[3,2,2,1,2,2,1]]]
+
+
+72
+
+id:
+76969606
+
+Weppe Platinum [2013-Mar-28]
