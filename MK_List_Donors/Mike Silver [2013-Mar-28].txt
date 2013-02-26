@@ -1,0 +1,15 @@
+Inventory
+
+[["M9SD","NVGoggles","ItemMap","ItemGPS","binocular_vector","ItemWatch","ItemHatchet","ItemCompass","ItemMatchbox","ItemKnife","M14_EP1"],["ItemPainkiller","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemMorphine","20Rnd_762x51_DMR","20Rnd_762x51_DMR","20Rnd_762x51_DMR"]]
+
+
+["DZ_ALICE_Pack_EP1",[["M24"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","ItemAntibiotic","FoodSteakCooked"],[2,2,1,1]]]
+
+Sniper1_DZ
+
+
+19
+
+14054726
+
+Mike Silver [2013-Mar-28]
