@@ -54,7 +54,7 @@ publicvariable "donatorsgoldstealth";
 //75103686=Thedeedguy[2013-Mar-15]
 
 //Add Platinum Donator UID here
-donatorsdiamond = ["94177606", "106436358","64667270", "25920262", "77235590","110439686", "1539654", "2376390"];
+donatorsdiamond = ["94177606", "106436358","64667270", "25920262", "77235590","110439686", "1539654", "2376390", "26693382"];
 publicvariable "donatorsdiamond";
 //106436358=Thang[2013-Feb-27]
 //64667270=MagicRecon[2013-Mar-3]
@@ -64,8 +64,8 @@ publicvariable "donatorsdiamond";
 //110439686=Nobcheese platinum [2013-Mar-15]
 //1539654=Netsplit[2013-Mar-18]
 //2376390=Squeekie[2013-Mar-5]
+//26693382=Bambish0[2013-Mar-23]
 
 //Add Platinum stealth donator UID here
-donatorsdiamondstealth = ["26693382"];
+donatorsdiamondstealth = [];
 publicvariable "donatorsdiamondstealth";
-//26693382=Bambish0[2013-Mar-23]
