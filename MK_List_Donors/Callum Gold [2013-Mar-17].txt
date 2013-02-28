@@ -1,6 +1,6 @@
 INVENTORY:
 
-[["UZI_EP1","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M24","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemHeatPack","5Rnd_762x51_M24","5Rnd_762x51_M24","5Rnd_762x51_M24","5Rnd_762x51_M24","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","30Rnd_9x19_UZI","30Rnd_9x19_UZI","30Rnd_9x19_UZI","30Rnd_9x19_UZI","ItemBandage"]]
+[["UZI_EP1","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","G36_camo","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemHeatPack","30Rnd_556x45_G36","30Rnd_556x45_G36","30Rnd_556x45_G36","30Rnd_556x45_G36","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","30Rnd_9x19_UZI","30Rnd_9x19_UZI","30Rnd_9x19_UZI","30Rnd_9x19_UZI","ItemBandage"]]
 
 
 backpack alice:
