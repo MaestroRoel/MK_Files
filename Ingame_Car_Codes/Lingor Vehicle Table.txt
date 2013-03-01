@@ -23,12 +23,59 @@
 24      Fishing_Boat
 25      PBX
 26      Smalllboat_1
-27      Volha
+27      Volha_2_TK_CIV_EP1
 28      Volha_1_TK_CIV_EP1
 29      SUV_TK_CIV_EP1
 30      car_sedan
+31      hilux1_civil_3_open_EP1
+32      UralCivil2
+33      LandRover_CZ_EP1
+34      Ka60_GL_NAC
+35      Mi17_Civilian_Nam
+36      BW_Ikarus1
+37      BW_Ikarus2
+38      kpfs_golf_g
+39      kpfs_golf_p
+40      kpfs_golf_post
+41      kpfs_golf_tk
+42      Lada1_GDR
+43      Lada2_GDR
+44      Lada2_TK_CIV_EP1
+45      Lada4_GDR
+46      Lada5_GDR
+47      TT650_Civ
+48      TT650_Gue
+49      MTVR
+50      M1030_US_DES_EP1
+51      smallboat_2
+52      Post_bike_E
 56      BAF_Offroad_D
 57      BAF_Offroad_W
+58      datsun1_civil_3_open
+59      Fishing_Boat_DZ
+60      PBX_DZ
+62      datsun1_civil_2_covered
+63      GAZ_Vodnik
+64      hilux1_civil_1_open
+65      hilux1_civil_2_covered
+66      Lada
+67      Lada1
+68      Lada1_TK_CIV_EP1
+69      LadaLM
+70      LandRover_TK_CIV_EP1
+73      MMT_Civ
+74      Old_moto_TK_Civ_EP1
+75      RHIB2Turret_DZ
+76      S1203_ambulance_EP1
+77      SkodaRed
+78      Smallboat_1_DZ
+79      Smallboat_2_DZ
+80      TowingTractor
+81      VWGolf
+82      VolhaLimo_TK_CIV_EP1
+88      UralRefuel_INS
+89      Ural_INS
+90      HMMWV_DES_EP1
 93      HMMWV_DZ
 
 
@@ -38,7 +85,12 @@ Choppers/Airplane
 53      AH6X_DZ
 54      Mi17_DZ
 55      AN2_DZ
+61      AN2_2_TK_CIV_EP1_DZ
+71      Mi17_Civilian_DZ
+72      Mi17_medevac_RU_DZ
+91      C130J
 92      MH6J_DZ
+94      MV22_DZ
 
 [[[], []], [["PartFueltank", "PartWheel"], [1, 1]], [[], []]]
 
