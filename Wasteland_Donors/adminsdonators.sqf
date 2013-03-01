@@ -21,16 +21,14 @@ donatorsbronze = [""];
 publicvariable "donatorsbronze";
 
 //Add silver donator UID here
-donatorssilver = ["104736390", "36917766","4953990"];
+donatorssilver = ["36917766","4953990"];
 publicvariable "donatorssilver";
-//104736390=cmc94[2013-Feb-30]
 //36917766=josh[2013-Mar-15]
 //4953990=Jonnzz Silver [2013-Mar-21] 
 
 //Add silver stealth donator UID here
-donatorssilverstealth = ["34190598"];
+donatorssilverstealth = [];
 publicvariable "donatorssilverstealth";
-//34190598=Venom [2013-Feb-28]
 
 //Add gold donator UID here
 donatorsgold = ["96960390", "66925382", "76102150", "45157638", "94624390", "3919302", "64485510", "71099206", "76633286", "19068870", "1822465"];
@@ -48,15 +46,13 @@ publicvariable "donatorsgold";
 //1822465=FinnBlitz Gold [2013-Mar-28]
 
 //Add gold stealth donator UID here
-donatorsgoldstealth = [ "15318342", "75103686"];
+donatorsgoldstealth = ["75103686"];
 publicvariable "donatorsgoldstealth";
-//15318342=Nero[2013-Feb-29]
 //75103686=Thedeedguy[2013-Mar-15]
 
 //Add Platinum Donator UID here
-donatorsdiamond = ["94177606", "106436358","64667270", "25920262", "77235590","110439686", "1539654", "2376390", "26693382"];
+donatorsdiamond = ["94177606", "64667270", "25920262", "77235590", "110439686", "1539654", "2376390", "26693382"];
 publicvariable "donatorsdiamond";
-//106436358=Thang[2013-Feb-27]
 //64667270=MagicRecon[2013-Mar-3]
 //25920262=Benjy[2013-Mar-3]
 //77235590=[EW]PaaainKiller[2013-Mar-13]
