@@ -1,0 +1,83 @@
+
+//	@file Version: 1.0
+//	@file Name: onKeyPress.sqf
+//	@file Author: [404] Deadbeat
+//	@file Created: 20/11/2012 05:19
+//	@file Args:
+
+
+private["_handled", "_faceCP", "_faceVP"];
+
+_key     = _this select 1;
+_shift   = _this select 2;
+_handled = false;
+
+if(isstunned) exitwith
+
+	{
+
+	if(_key == 50)then{_handled = true};
+	if(_key == 11)then{_handled = true};
+
+	_handled
+
+	};
+
+switch _key do
+{      
+    //U key
+    case 22:
+    {
+		execVM "client\systems\adminPanel\checkAdmin.sqf";
+    };
+    
+    //tilde
+    case 41:
+    {
+        [] call loadPlayerMenu;
+    };
+	
+	//Y key
+    case 21:
+	{   
+        if(((getPlayerUID player) in serverAdministrators)) then
+		{
+			closeDialog 0;      
+            createDialog "balca_debug_main";		
+         };
+	};
+	
+	//> key
+	case 86:
+	{
+		if(((getPlayerUID player) in serverAdministrators)) then
+		{
+			removeallweapons player;			
+			player switchmove "NavigationHeli";			
+			execVM "client\systems\playerMenu\suicidebomb.sqf";			
+		};		
+	};
+	
+	//INSERT key
+	case 210:
+	{
+		if(((getPlayerUID player) in serverAdministrators)) then
+		{
+			removeallweapons player;			
+			player switchmove "NavigationHeli";			
+			execVM "client\systems\playerMenu\suicidebomb.sqf";			
+		};		
+	};
+	
+	// , key (NUMPAD ,/del)
+	case 83:
+	{
+		if(((getPlayerUID player) in moderators) OR ((getPlayerUID player) in administrators) OR ((getPlayerUID player) in serverAdministrators)) then
+		{
+			execVM "client\systems\playerMenu\teleport.sqf";
+		};
+	};
+	
+};
+_handled;
+
