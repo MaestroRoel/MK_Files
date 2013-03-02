@@ -12,9 +12,9 @@ publicvariable "moderators";
 administrators = [""];
 publicvariable "administrators";
 
-serverAdministrators = ["82568454", "46360582", "82558598", "1037378", "87096710", "14184454", "73821126", "61778886", "68861254", "64100486"];
+serverAdministrators = ["82568454", "46360582", "94774470", "1037378", "87096710", "14184454", "73821126", "61778886", "68861254", "64100486"];
 publicvariable "serverAdministrators";
-//Haze=82568454, Silent=82558598, Equiery=46360582, Mathias=14184454, Roel=87096710, Gareth=73821126, Striker=1037378, 61778886=Nanalew, 68861254=Dabak, 64100486=INeverEpic
+//Haze=82568454, Silent=94774470, Equiery=46360582, Mathias=14184454, Roel=87096710, Gareth=73821126, Striker=1037378, 61778886=Nanalew, 68861254=Dabak, 64100486=INeverEpic
 
 //Add bronze donator UID here
 donatorsbronze = [""];
@@ -51,7 +51,7 @@ publicvariable "donatorsgoldstealth";
 //75103686=Thedeedguy[2013-Mar-15]
 
 //Add Platinum Donator UID here
-donatorsdiamond = ["94177606", "64667270", "25920262", "77235590", "110439686", "1539654", "2376390", "26693382"];
+donatorsdiamond = ["94774470","94177606", "64667270", "25920262", "77235590", "110439686", "1539654", "2376390", "26693382"];
 publicvariable "donatorsdiamond";
 //64667270=MagicRecon[2013-Mar-3]
 //25920262=Benjy[2013-Mar-3]
