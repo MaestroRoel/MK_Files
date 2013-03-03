@@ -31,11 +31,8 @@ donatorssilverstealth = [];
 publicvariable "donatorssilverstealth";
 
 //Add gold donator UID here
-donatorsgold = ["96960390", "66925382", "76102150", "45157638", "94624390", "3919302", "64485510", "71099206", "76633286", "19068870", "1822465"];
+donatorsgold = ["45157638", "94624390", "3919302", "64485510", "71099206", "76633286", "19068870", "1822465"];
 publicvariable "donatorsgold";
-//96960390=Lathirex[2013-Mar-2]
-//66925382=Chuck Norris[2013-Mar-3]
-//76102150=Frankster[2013-Mar-4]
 //45157638=Jailbait_Assface Gold [2013-Mar-15]
 //94624390=Bronson Gold[2013-Mar-16]
 //3919302=Callum Gold [2013-Mar-16]
@@ -51,11 +48,9 @@ publicvariable "donatorsgoldstealth";
 //75103686=Thedeedguy[2013-Mar-15]
 
 //Add Platinum Donator UID here
-donatorsdiamond = ["94774470","94177606", "64667270", "25920262", "77235590", "110439686", "1539654", "2376390", "26693382", "96458694"];
+donatorsdiamond = ["94774470","94177606", "77235590", "110439686", "1539654", "2376390", "26693382", "96458694"];
 publicvariable "donatorsdiamond";
 //Silent=94774470
-//64667270=MagicRecon[2013-Mar-3]
-//25920262=Benjy[2013-Mar-3]
 //77235590=[EW]PaaainKiller[2013-Mar-13]
 //94177606=Cheeze[2013-Mar-15]
 //110439686=Nobcheese platinum [2013-Mar-15]
