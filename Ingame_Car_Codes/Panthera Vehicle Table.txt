@@ -2,25 +2,29 @@
 
 64100486
 
-		Chopper					873
-55		Small Plane				874
-91		c130					875
+15		Chopper					902-916
+55		Small Plane				917-922
+91		c130					923-926
 
 
 
-29		SUV_TK_CIV_EP1			877
-1		UAZ_Unarmed_TK_EP1		878
-2		UAZ_Unarmed_TK_CIV_EP1	879
-3		Skoda					881
-4		UAZ_RU					887
-9		SkodaGreen				882
-20		S1203_TK_CIV_EP1		884
-21		V3S_Civ					886
-22		UralCivil				883
-33		LandRover_CZ_EP1		885
-69		LadaLM					888
-77		SkodaRed				889
-81		VWGolf					880
+29		SUV_TK_CIV_EP1			887
+1		UAZ_Unarmed_TK_EP1		885
+2		UAZ_Unarmed_TK_CIV_EP1	886
+3		Skoda					888
+4		UAZ_RU					889
+9		SkodaGreen				890
+20		S1203_TK_CIV_EP1		891
+21		V3S_Civ					892
+22		UralCivil				893
+33		LandRover_CZ_EP1		894
+69		LadaLM					895
+77		SkodaRed				896
+81		VWGolf					897
+90      HMMWV_DES_EP1           898
+16      hilux1_civil_3_open     899
+62      datsun1_civil_2_covered 900
+5       ATV_US_EP1              901
 
 
 [[[], []], [["PartFueltank", "PartWheel"], [1, 1]], [[], []]]
