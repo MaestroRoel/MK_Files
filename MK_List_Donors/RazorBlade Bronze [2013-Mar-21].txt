@@ -1,10 +1,10 @@
 
 
 
-[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","Huntingrifle",5x_22_LR_17_HMR","ItemToolbox","ItemWatch","Binocular_Vector"],["ItemPainkiller","ItemMorphine","ItemHeatPack","5x_22_LR_17_HMR","5x_22_LR_17_HMR","5x_22_LR_17_HMR","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","Huntingrifle",5Rnd_762x51_M24","ItemToolbox","ItemWatch","Binocular_Vector"],["ItemPainkiller","ItemMorphine","ItemHeatPack","5Rnd_762x51_M24","5Rnd_762x51_M24","5Rnd_762x51_M24","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
 
 
-["DZ_ALICE_Pack_EP1",[[""],[]],[["ItemWaterbottle","HandGrenade_West","Skin_Sniper1_DZ","FoodSteakCooked","ItemSodaMdew","Bloodbag"],[1,2,1,1,1,1]]]
+["DZ_ALICE_Pack_EP1",[["M24"],[1]],[["ItemWaterbottle","HandGrenade_West","Skin_Sniper1_DZ","FoodSteakCooked","ItemSodaMdew","Bloodbag"],[1,2,1,1,1,1]]]
 
 62
 
