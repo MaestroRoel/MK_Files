@@ -15,6 +15,9 @@ Survivor2_DZ
 ["DZ_Backpack_EP1",[["BAF_L85A2_RIS_CWS"],[1]],[["30Rnd_556x45_Stanag","ItemMorphine","ItemBloodbag","ItemAntibiotic","ItemHeatPack","ItemPainkiller","FoodSteakCooked","ItemSodaMdew"],[3,2,2,1,1,1,2,2]]]
 
 
+Chuck Norris Gold [2013-Apr-7]
 
-
-Chuck Norris Gold [2013-Mar-3]
+***************************************
+March 7,
+Roel:
+Added donor as platinum wasteland
