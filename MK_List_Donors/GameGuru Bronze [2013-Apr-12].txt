@@ -6,8 +6,8 @@
 
 ["DZ_ALICE_Pack_EP1",[[""],[]],[["ItemWaterbottle","HandGrenade_West","Skin_Sniper1_DZ","FoodSteakCooked","ItemSodaMdew","Bloodbag"],[1,2,1,1,1,1]]]
 
-[DB NR]
+30
 
-[PlayerID]
+71900678
 
 GameGuru Bronze [2013-Apr-12]
