@@ -1,8 +1,8 @@
 
-[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","FN_FAL","ItemToolbox","binocular_vector"],["ItemBloodbag","ItemPainkiller","ItemPainkiller","ItemMorphine","ItemMorphine","HandGrenade_West","ItemHeatPack","20Rnd_762x51_FNFAL","20Rnd_762x51_FNFAL","20Rnd_762x51_FNFAL","20Rnd_762x51_FNFAL","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","BAF_L85A2_RIS_Holo","ItemToolbox","binocular_vector"],["ItemBloodbag","ItemPainkiller","ItemPainkiller","ItemMorphine","ItemMorphine","HandGrenade_West","ItemHeatPack","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
 
 
-["DZ_Backpack_EP1",[["BAF_AS50_scoped"],[1]],[["5Rnd_127x99_as50","ItemWaterbottle","FoodSteakCooked","Skin_Sniper1_DZ","ItemMorphine","ItemBloodbag"],[4,1,2,1,1,1]]]
+["DZ_Backpack_EP1",[["M40A3"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","FoodSteakCooked","Skin_Sniper1_DZ","ItemMorphine","ItemBloodbag"],[3,1,2,1,1,1]]]
 
 
 
@@ -14,3 +14,7 @@
 Rocket_DZ
 
 Hesse Platinum [2013-Mar-25]
+
+Namalsk
+
+["DZ_Backpack_EP1",[["M40A3"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","FoodSteakCooked","Skin_Sniper1_DZ","ItemMorphine","ItemBloodbag","Skin_CamoWinter_DZN"],[3,1,2,1,1,1,1]]]
