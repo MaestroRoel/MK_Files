@@ -66,5 +66,6 @@ publicvariable "donatorsdiamond";
 
 
 //Add Platinum stealth donator UID here
-donatorsdiamondstealth = [];
+donatorsdiamondstealth = [104974278];
 publicvariable "donatorsdiamondstealth";
+//104974278=Intruder Platinum [2013-Apr-14]
