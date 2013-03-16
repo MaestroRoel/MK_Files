@@ -1,0 +1,5 @@
+
+[["M9SD","NVGoggles","ItemMap","ItemGPS","binocular","ItemWatch","ItemHatchet","ItemCompass","ItemMatchbox","ItemKnife"],["ItemPainkiller","ItemMorphine","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+
+
+["DZ_Assault_Pack_EP1",[[],[]],[[],[]]]
