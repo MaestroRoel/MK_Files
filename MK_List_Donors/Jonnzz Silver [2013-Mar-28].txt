@@ -1,0 +1,16 @@
+Edit by Cheeze, Feb 24
+
+
+
+
+INVENTORY:
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","G36K_camo","ItemToolbox","binocular_vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","HandGrenade_West","ItemHeatPack","30Rnd_556x45_G36","30Rnd_556x45_G36","30Rnd_556x45_G36","30Rnd_556x45_G36","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+
+backpack alice:
+["DZ_ALICE_Pack_EP1",[["M24"],[1]],[["20Rnd_762x51_DMR","ItemWaterbottle","FoodSteakCooked","ItemBloodbag"],[2,1,1,1]]]
+
+17
+
+4953990
+
+Jonnzz Silver [2013-Mar-28]

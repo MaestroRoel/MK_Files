@@ -1,0 +1,16 @@
+INVENTORY:
+
+[["glock17_ep1","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M4A3_CCO_EP1","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemHeatPack","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","17Rnd_9x19_glock17","17Rnd_9x19_glock17","17Rnd_9x19_glock17","17Rnd_9x19_glock17","ItemBandage"]]
+
+
+backpack coyote:
+["DZ_Backpack_EP1",[["M16A4_ACG"],[1]],[["ItemWaterbottle","ItemBloodbag","Skin_Sniper1_DZ","FoodSteakCooked","30Rnd_556x45_Stanag"],[3,2,1,4,4]]]
+
+
+Rocket_DZ
+
+89
+
+79231494
+
+Benchmark Gold [2013-Apr-15]

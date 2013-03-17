@@ -1,0 +1,17 @@
+INVENTORY:
+
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","G36K_camo","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemHeatPack","30Rnd_556x45_G36","30Rnd_556x45_G36","30Rnd_556x45_G36","30Rnd_556x45_G36","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+
+backpack alice:
+["DZ_Backpack_EP1",[["BAF_AS50_scoped"],[1]],[["ItemWaterbottle","ItemBloodbag","ItemEpinephrine","FoodSteakCooked","5Rnd_127x99_as50"],[2,2,2,2,3]]]
+
+
+Sniper1_DZ
+
+75
+
+35102534
+
+KINGPINUK Platinum [2013-Apr-12]
+

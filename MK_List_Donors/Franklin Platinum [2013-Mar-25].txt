@@ -1,0 +1,18 @@
+Edit by Cheeze, Feb 19
+
+INVENTORY:
+
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemEtool","ItemFlashlight","DMR","ItemToolbox","ItemWatch","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemMorphine","ItemHeatPack","20Rnd_762x51_DMR","20Rnd_762x51_DMR","20Rnd_762x51_DMR","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+
+backpack Coyote:
+["DZ_Backpack_EP1",[["BAF_AS50_scoped"],[1]],[["5Rnd_127x99_as50","ItemWaterbottle","ItemBloodbag","Skin_Sniper1_DZ","FoodSteakCooked","HandGrenade_West"],[3,2,2,1,2,1]]]
+Rocket_DZ
+
+58
+
+51462406
+
+Platinum Franklin [2013-Mar-25]
+
+
+

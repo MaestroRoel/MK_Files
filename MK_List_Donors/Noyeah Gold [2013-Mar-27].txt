@@ -1,0 +1,16 @@
+Edit by Cheeze, Feb 18
+
+Inventory:
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M4A1_Aim","ItemToolbox","Binocular"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemMorphine","ItemHeatPack","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+
+Backpack Alice:
+["DZ_Backpack_EP1",[["SVD_CAMO"],[1]],[["10Rnd_762x54_SVD","ItemBloodbag","ItemHeatPack","FoodSteakCooked","ItemWaterbottle"],[4,2,1,3,3]]]
+
+Sniper1_DZ
+
+CamoWinter_DZN
+
+8
+105688774
+
+Noyeah Gold [2013-Mar-27]
