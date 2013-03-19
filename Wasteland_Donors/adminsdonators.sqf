@@ -19,11 +19,8 @@ donatorsbronze = [""];
 publicvariable "donatorsbronze";
 
 //Add silver donator UID here
-donatorssilver = ["36917766","4953990", "65910086", "106957958"];
+donatorssilver = ["106957958"];
 publicvariable "donatorssilver";
-//36917766=josh[2013-Mar-15]
-//4953990=Jonnzz Silver [2013-Mar-21]
-//65910086=Lukas D Silver [2013-Mar-19]
 //106957958=Rick [2013-Apr-13]
 
 //Add silver stealth donator UID here
@@ -31,34 +28,23 @@ donatorssilverstealth = [];
 publicvariable "donatorssilverstealth";
 
 //Add gold donator UID here
-donatorsgold = ["45157638", "94624390", "3919302", "64485510", "71099206", "76633286", "19068870", "1822465", "19047046", "71900678"];
+donatorsgold = ["19068870", "1822465", "19047046", "71900678"];
 publicvariable "donatorsgold";
-//45157638=Jailbait_Assface Gold [2013-Mar-15]
-//94624390=Bronson Gold[2013-Mar-16]
-//3919302=Callum Gold [2013-Mar-16]
-//64485510=Filthrot Gold [2013-Mar-17]
-//71099206=Francois Gold [2013-Mar-20]
-//76633286=Heisenberg Gold [2013-Mar-20]
 //19068870=SecksToy [2013-Mar-23]
 //1822465=FinnBlitz Gold [2013-Mar-28]
 //19047046=BadKarma Gold [2013-Mar-25]
 //71900678=GameGuru Gold [2013-Apr-13]
 
 //Add gold stealth donator UID here
-donatorsgoldstealth = ["75103686"];
+donatorsgoldstealth = [""];
 publicvariable "donatorsgoldstealth";
-//75103686=Thedeedguy[2013-Mar-15]
 
 //Add Platinum Donator UID here
-donatorsdiamond = ["94774470","94177606", "77235590", "110439686", "1539654", "26693382", "96458694", "77759942", "27530118", "66925382", "92551238", "17522438", "108320966"];
+donatorsdiamond = ["94774470","94177606", "26693382", "77759942", "27530118", "66925382", "92551238", "17522438", "108320966"];
 publicvariable "donatorsdiamond";
 //Silent=94774470
-//77235590=[EW]PaaainKiller[2013-Mar-13]
 //94177606=Cheeze[2013-Mar-15]
-//110439686=Nobcheese platinum [2013-Mar-15]
-//1539654=Netsplit[2013-Mar-18]
 //26693382=Bambish0[2013-Mar-23]
-//Mathmud=96458694[2013-Mar-17]
 //77759942=LazyLays Platinum[2013-Apr-5]
 //27530118=Nandez Gold [2013-Apr-6]
 //66925382=Chuck Norris Gold [2013-Apr-7]
