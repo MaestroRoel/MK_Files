@@ -1,0 +1,18 @@
+Edit by Cheeze, Feb Mar 21
+
+
+
+
+MK1
+[["M9SD","NVGoggles","ItemMap","ItemGPS","binocular","ItemWatch","ItemHatchet","ItemCompass","ItemMatchbox","ItemKnife","Skin_Camo1_DZ"],["ItemPainkiller","ItemMorphine","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+
+["DZ_ALICE_Pack_EP1",[["M16A4_ACG"],[1]],[["30Rnd_556x45_Stanag","ItemWaterbottle","FoodSteakCooked"],[3,2,1]]]
+
+
+Warm Clothing
+
+34
+
+13842246
+
+Oakey Bronze [2013-Apr-26]
