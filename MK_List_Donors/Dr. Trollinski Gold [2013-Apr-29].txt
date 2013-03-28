@@ -1,0 +1,16 @@
+INVENTORY:
+
+[["M4A1_AIM_SD_camo","M9SD","NVGoggles","Binocular_Vector","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","ItemToolbox","ItemWatch"],["ItemPainkiller","ItemMorphine","ItemMorphine","ItemPainkiller","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","ItemAntibiotic","HandGrenade_West","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+
+backpack coyote:
+["DZ_Backpack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","ItemBloodbag","Skin_Sniper1_DZ","FoodSteakCooked","ItemWaterbottle"],[3,2,1,3,3]]]
+
+
+Survivor2_DZ
+
+36
+
+95048582
+
+Dr. Trollinski Gold [2013-Apr-29]
