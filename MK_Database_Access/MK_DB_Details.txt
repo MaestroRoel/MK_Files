@@ -1,4 +1,0 @@
-Server:			MK Test Server
-DB Name: 		MK_Test_Server
-Username: 		MK_Test_Server
-Pass:			mk_test_server2013
