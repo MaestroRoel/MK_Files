@@ -10,9 +10,9 @@ publicvariable "moderators";
 administrators = [""];
 publicvariable "administrators";
 
-serverAdministrators = ["82568454", "46360582", "94774470", "1037378", "87096710", "14184454", "73821126", "61778886", "68861254", "64100486", "106436358", "45332614"];
+serverAdministrators = ["46360582", "94774470", "1037378", "87096710", "14184454", "73821126", "61778886", "68861254", "64100486", "106436358", "45332614"];
 publicvariable "serverAdministrators";
-//Haze=82568454, Silent=94774470, Equiery=46360582, Mathias=14184454, Roel=87096710, Gareth=73821126, Striker=1037378, 61778886=Nanalew, 68861254=Dabak, 64100486=INeverEpic, 106436358=Thang, 45332614=Panda
+//Silent=94774470, Equiery=46360582, Mathias=14184454, Roel=87096710, Gareth=73821126, Striker=1037378, 61778886=Nanalew, 68861254=Dabak, 64100486=INeverEpic, 106436358=Thang, 45332614=Panda
 
 //Add bronze donator UID here
 donatorsbronze = [""];
@@ -29,9 +29,8 @@ donatorssilverstealth = [];
 publicvariable "donatorssilverstealth";
 
 //Add gold donator UID here
-donatorsgold = ["19068870", "1822465", "19047046", "71900678", "76633286"];
+donatorsgold = ["19068870", "19047046", "71900678", "76633286"];
 publicvariable "donatorsgold";
-//19068870=SecksToy [2013-Mar-23]
 //1822465=FinnBlitz Gold [2013-Mar-28]
 //19047046=BadKarma Gold [2013-Mar-25]
 //71900678=GameGuru Gold [2013-Apr-13]
