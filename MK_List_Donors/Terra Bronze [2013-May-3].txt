@@ -1,0 +1,13 @@
+
+
+
+[["M9SD","NVGoggles","ItemMap","ItemWatch","ItemHatchet","ItemCompass","ItemMatchbox","ItemGPS","ItemKnife"],["ItemPainkiller","ItemMorphine","Skin_Camo1_DZ","Skin_Soldier1_DZ","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage","ItemBandage","ItemBandage","ItemBandage"]]
+
+
+["DZ_ALICE_Pack_EP1",[["M4A1_Aim"],[1]],[["30Rnd_556x45_Stanag","ItemWaterbottle","FoodSteakCooked"],[3,2,1]]]
+
+61
+
+86403846 
+
+Terra Bronze [2013-May-3]
