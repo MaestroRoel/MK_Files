@@ -1,0 +1,16 @@
+
+
+
+
+
+INVENTORY:
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M16A4_ACG","ItemToolbox","binocular_vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","HandGrenade_West","ItemHeatPack","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+
+backpack alice:
+["DZ_Backpack_EP1",[["M24"],[1]],[["5Rnd_762x51_M24","ItemWaterbottle","FoodSteakCooked","ItemBloodbag"],[3,1,1,1]]]
+
+5
+
+28220934
+
+Shifty Silver [2013-May-9]
