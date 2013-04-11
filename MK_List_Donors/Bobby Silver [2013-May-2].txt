@@ -5,7 +5,7 @@ Inventory:
 
 
 Backpack Alice:
-["DZ_ALICE_Pack_EP1",[["DMR"],[1]],[["ItemWaterbottle","ItemBloodbag","Skin_Sniper1_DZ","20Rnd_762x51_DMR"],[1,1,2,3]]]
+["DZ_ALICE_Pack_EP1",[["DMR"],[1]],[["ItemWaterbottle","ItemBloodbag","ItemCookedMeat","20Rnd_762x51_DMR"],[1,1,2,3]]]
 
 
 Sniper1_DZ
