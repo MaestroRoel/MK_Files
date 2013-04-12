@@ -1,0 +1,34 @@
+Normal:
+Survivor2_DZ
+
+Camo:
+Camo1_DZ
+as item: Skin_Camo1_DZ
+
+
+Ghili:
+Sniper1_DZ
+as item: Skin_Sniper1_DZ
+
+
+Soldier (banned):
+Soldier1_DZ
+
+CamoWinter_DZN
+Skin_CamoWinter_DZN
+White Winter
+Skin_CamoWinterW_DZN
+
+
+
+
+
+Standard Skin.............Survivor2_DZ
+Camo Clothing Skin........Camo1_DZ
+Ghillie Clothing Skin.....Sniper1_DZ
+Rocket's Personal Skin....Rocket_DZ
+Soldier Skin..............Soldier1_DZ
+2nd Survivor Skin.........SurvivorW2_DZ
+Bandit Skin...............Bandit1_DZ
+
+Soldier Skin, and Bandit Skin have not been tested.
