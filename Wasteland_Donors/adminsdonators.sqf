@@ -1,13 +1,14 @@
 if(!X_Server) exitWith {};
 
 //Admin menu access levels
-moderators = ["93186886", "61743238", "110861126", "113793AX", "109113094"]; 
+moderators = ["93186886", "61743238", "110861126", "113793AX", "109113094", "63753734"]; 
 publicvariable "moderators";
 //109113094=Sgt.Matt
 //113793AX=LaserPotato
 //93186886=Sean/Zinky
 //61743238=Martyn
 //110861126=Riggster
+//63753734=Sparta
 
 administrators = [""];
 publicvariable "administrators";
@@ -29,14 +30,17 @@ publicvariable "serverAdministrators";
 //4348166=Ricardo
 
 //Add bronze donator UID here
-donatorsbronze = [""];
+donatorsbronze = ["93185158"];
 publicvariable "donatorsbronze";
+//93185158=RADDA7 [12 May 2013]
+
 
 //Add silver donator UID here
-donatorssilver = ["106957958", "110984518"];
+donatorssilver = ["106957958", "110984518", "99501382"];
 publicvariable "donatorssilver";
 //106957958=Rick [2013-Apr-13]
 //110984518=Firenzey Gold [2013-Apr-25]
+//99501382=Duuudeimserious [12 May 2013]
 
 //Add silver stealth donator UID here
 donatorssilverstealth = [];
