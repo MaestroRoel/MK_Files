@@ -1,18 +1,22 @@
 
 
 
-GOLD_Package_DayZ_15
-
 
 INVENTORY:
 
 [["M14_EP1","M9SD","NVGoggles","Binocular_Vector","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","ItemToolbox","ItemWatch"],["ItemPainkiller","ItemMorphine","ItemMorphine","ItemPainkiller","20Rnd_762x51_DMR","20Rnd_762x51_DMR","20Rnd_762x51_DMR","ItemAntibiotic","HandGrenade_West","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
 
+
 backpack Coyote:
 ["DZ_Backpack_EP1",[["DMR"],[1]],[["20Rnd_762x51_DMR","ItemBloodbag","ItemHeatPack","FoodSteakCooked","ItemWaterbottle"],[3,2,1,3,3]]]
+
 
 Sniper1_DZ
 
 
-\\\!!! DO NOT GIVE PLAYERS WEAPONS THAT EXCEED THE DAMAGE OF THE WEAPONS IN THIS TEMPLATE. THIS IS TO HAVE A STABLE COMMUNITY BETWEEN DONATORS !!!///
+9
 
+93099462
+
+
+iMonkeyz Gold [2013-May-15]
