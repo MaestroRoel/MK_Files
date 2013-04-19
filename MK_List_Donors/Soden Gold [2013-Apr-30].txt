@@ -1,10 +1,10 @@
 Edit by Cheeze, Mar 29
 
-[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M4A1_AIM_SD_camo","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemHeatPack","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
+[["M9SD","NVGoggles","ItemMap","ItemWatch","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","BAF_L85A2_RIS_Holo","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemHeatPack","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD"]]
 
 
 backpack alice:
-["DZ_Backpack_EP1",[["DMR"],[1]],[["ItemWaterbottle","ItemBloodbag","Handgrenade_West","Skin_Sniper1_DZ","ItemEpinephrine","FoodSteakCooked","20Rnd_762x51_DMR"],[2,2,1,1,2,2,3]]]
+["DZ_Backpack_EP1",[["DMR"],[1]],[["ItemWaterbottle","ItemBloodbag","Handgrenade_West","Skin_Soldier1_DZ","ItemEpinephrine","FoodSteakCooked","20Rnd_762x51_DMR"],[2,2,1,1,2,2,3]]]
 
 
 Survivor2_DZ
