@@ -1,0 +1,14 @@
+Edit by Cheeze, Apr 20
+
+Inventory:
+[["M9","NVGoggles","ItemMap","ItemWatch","ItemHatchet","ItemCompass","ItemMatchbox","ItemGPS","ItemKnife"],["ItemPainkiller","ItemMorphine","Skin_Camo1_DZ","15Rnd_9x19_M9","15Rnd_9x19_M9","15Rnd_9x19_M9","15Rnd_9x19_M9","ItemBandage","ItemBandage","ItemBandage","ItemBandage"]]
+
+Backpack Alice:
+["DZ_ALICE_Pack_EP1",[["LeeEnfield"],[1]],[["10x_303","ItemWaterbottle","FoodSteakCooked"],[3,2,1]]]
+
+Survivor2_DZ
+
+14
+120005702
+
+EQUK_ZypK Bronze [2013-May-22]
