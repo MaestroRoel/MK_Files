@@ -1,30 +1,23 @@
 if(!X_Server) exitWith {};
 
 //Admin menu access levels
-moderators = ["93186886", "61743238", "110861126", "113793AX", "63753734"]; 
+moderators = ["73821126", "61743238", "106436358", "45332614", "63753734", "64100486"]; 
 publicvariable "moderators";
-//113793AX=LaserPotato
-//93186886=Sean/Zinky
 //61743238=Martyn
-//110861126=Riggster
 //63753734=Sparta
+//73821126=Gareth
+//45332614=Panda
+//106436358=Thang
+//64100486=INeverEpic
 
 administrators = [""];
 publicvariable "administrators";
-
-serverAdministrators = ["46360582", "94774470", "1037378", "87096710", "14184454", "73821126", "61778886", "68861254", "64100486", "106436358", "45332614", "92009926", "4348166"];
+serverAdministrators = ["94774470", "1037378", "87096710", "61778886", "92009926", "4348166"];
 publicvariable "serverAdministrators";
-//Silent=94774470
-//Equiery=46360582
-//Mathias=14184454
-//Roel=87096710
-//Gareth=73821126
-//Striker=1037378
+//94774470=Silent
+//87096710=Roel
+//1037378=Striker
 //61778886=Nanalew
-//68861254=Dabak
-//64100486=INeverEpic
-//106436358=Thang
-//45332614=Panda
 //92009926=Dano
 //4348166=Ricardo
 
