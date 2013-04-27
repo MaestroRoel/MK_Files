@@ -56,5 +56,6 @@ publicvariable "donatorsdiamond";
 //91118150=Bob Platinum [2013-May-28]
 
 //Add Platinum stealth donator UID here
-donatorsdiamondstealth = [];
+donatorsdiamondstealth = ["64667270"];
 publicvariable "donatorsdiamondstealth";
+//64667270=MagicRecon Platinum [2013-May-29]
