@@ -1,0 +1,18 @@
+Added Donor April 27, Roel
+
+
+
+INVENTORY:
+
+[["M9SD","NVGoggles","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","M14_EP1","ItemToolbox","Binocular_Vector"],["ItemPainkiller","ItemPainkiller","ItemMorphine","ItemMorphine","ItemHeatPack","20Rnd_762x51_DMR","20Rnd_762x51_DMR","20Rnd_762x51_DMR","ItemWaterbottle","FoodSteakCooked","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+backpack alice:
+["DZ_Backpack_EP1",[["DMR"],[1]],[["ItemWaterbottle","ItemBloodbag","Skin_Sniper1_DZ","FoodSteakCooked","20Rnd_762x51_DMR","HandGrenade_West"],[3,2,1,3,3,2]]]
+
+Survivor2_DZ
+
+21
+
+71173702
+
+Quinade Gold [2013-May-28]
