@@ -28,10 +28,8 @@ publicvariable "donatorsbronze";
 
 
 //Add silver donator UID here
-donatorssilver = ["106957958", "110984518", "99501382"];
+donatorssilver = ["99501382"];
 publicvariable "donatorssilver";
-//106957958=Rick [2013-Apr-13]
-//110984518=Firenzey Gold [2013-Apr-25]
 //99501382=Duuudeimserious [12 May 2013]
 
 //Add silver stealth donator UID here
@@ -39,32 +37,24 @@ donatorssilverstealth = [];
 publicvariable "donatorssilverstealth";
 
 //Add gold donator UID here
-donatorsgold = ["71900678", "120595014", "76633286"];
+donatorsgold = ["120595014"];
 publicvariable "donatorsgold";
-//71900678=GameGuru Gold [2013-Apr-13]
 //120595014=Ahhhh [2013-May-2]
-//76633286=Heisenberg [2013-Apr-27]
 
 //Add gold stealth donator UID here
 donatorsgoldstealth = [""];
 publicvariable "donatorsgoldstealth";
 
 //Add Platinum Donator UID here
-donatorsdiamond = ["94177606", "27530118", "66925382", "92551238", "17522438", "108320966", "41433862", "110861126", "120977926", "768772554", "44416326"];
+donatorsdiamond = ["94177606", "110861126", "120977926", "768772554", "44416326", "91118150"];
 publicvariable "donatorsdiamond";
 //110861126 = Riggster[05-May-2013]
 //94177606=Admin Cheeze
-//27530118=Nandez Gold [2013-Apr-6]
-//66925382=Chuck Norris Gold [2013-Apr-7]
-//92551238=Fabian Platinum [2013-Apr-09]
-//17522438=NorwegiaN Platinum [2013-Apr-11]
-//108320966=Dirty Platinum [2013-Apr-14]
-//41433862=Andiel Platinum [2013-Apr-27]
 //120977926=Lewis Platinum [2013-May-9]
 //768772554=Kryx Platinum [2013-May-13]
 //44416326=Zerker Platinum [2013-May-16] 
+//91118150=Bob Platinum [2013-May-28]
 
 //Add Platinum stealth donator UID here
-donatorsdiamondstealth = ["104974278"];
+donatorsdiamondstealth = [];
 publicvariable "donatorsdiamondstealth";
-//104974278=Intruder Platinum [2013-Apr-14]
