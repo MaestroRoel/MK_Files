@@ -1,0 +1,19 @@
+Edits By Roel, April 27
+This player have never joined mk1 or mk2, no idea why he donated !!!
+this is his description: Ingame Name: Pernox, ID: 89079494 , Platin: Standard (AS50+M9SD...but MK48 instead of G36K) Thanks =)
+
+
+INVENTORY:
+
+[["G36k_camo","M9SD","NVGoggles","Binocular_Vector","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","ItemToolbox","ItemWatch"],["ItemPainkiller","ItemMorphine","ItemMorphine","ItemPainkiller","30Rnd_556x45_G36","30Rnd_556x45_G36","30Rnd_556x45_G36","30Rnd_556x45_G36","30Rnd_556x45_G36","ItemAntibiotic","HandGrenade_West","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
+
+backpack Coyote:
+["DZ_Backpack_EP1",[["BAF_AS50_scoped"],[1]],[["ItemSodaMdew","ItemBloodbag","ItemEpinephrine","TrapBear","FoodSteakCooked","5Rnd_127x99_as50","10Rnd_127x99_m107"],[3,2,1,1,3,2,2]]]
+
+Sniper1_DZ
+
+17
+
+89079494
+
+Pernox Platinum [2013-May-28]
