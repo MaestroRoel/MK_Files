@@ -7,8 +7,8 @@ backpack Coyote:
 
 Sniper1_DZ
 
-99
+25
 
 77353670
 
-Dorskman Platinum [2013-Mar-28]
+Dorskman Platinum [2013-June-01]
