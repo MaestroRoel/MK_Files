@@ -1,7 +1,7 @@
 if(!X_Server) exitWith {};
 
 //Admin menu access levels
-moderators = ["73821126", "61743238", "106436358", "45332614", "63753734", "64100486", "64667270"]; 
+moderators = ["73821126", "61743238", "106436358", "45332614", "63753734", "64100486", "64667270","117171718"]; 
 publicvariable "moderators";
 //61743238=Martyn
 //63753734=Sparta
@@ -10,6 +10,7 @@ publicvariable "moderators";
 //106436358=Thang
 //64100486=INeverEpic
 //64667270=MagicRecon
+//117171718=TheDrunkCat
 
 administrators = [""];
 publicvariable "administrators";
@@ -46,7 +47,7 @@ donatorsgoldstealth = [""];
 publicvariable "donatorsgoldstealth";
 
 //Add Platinum Donator UID here
-donatorsdiamond = ["94177606", "768772554", "44416326", "91118150", "66925382", "89079494", "64667270", "93471366"];
+donatorsdiamond = ["94177606", "768772554", "44416326", "91118150", "66925382", "89079494", "64667270", "93471366","3507392"];
 publicvariable "donatorsdiamond";
 //94177606=Admin Cheeze
 //768772554=Kryx Platinum [2013-May-13]
@@ -56,6 +57,7 @@ publicvariable "donatorsdiamond";
 //89079494=Pernox Platinum [2013-May-29]
 //64667270=MagicRecon Platinum [2013-May-29]
 //93471366=[CLL] kalle [2013 - May - 31]
+//3507392=BestOfMiddleEast [2013 - June - 08]
 
 //Add Platinum stealth donator UID here
 donatorsdiamondstealth = [""];
