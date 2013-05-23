@@ -25,9 +25,8 @@ publicvariable "serverAdministrators";
 //4348166=Ricardo
 
 //Add bronze donator UID here
-donatorsbronze = ["93185158", "80767558"];
+donatorsbronze = ["80767558"];
 publicvariable "donatorsbronze";
-//93185158=RADDA7 [12 May 2013]
 //80767558=SwampyPK [10 June 2013]
 
 
@@ -41,8 +40,9 @@ donatorssilverstealth = [];
 publicvariable "donatorssilverstealth";
 
 //Add gold donator UID here
-donatorsgold = [""];
+donatorsgold = ["93185158"];
 publicvariable "donatorsgold";
+//93185158=RADDA7 [23 June 2013]
 
 //Add gold stealth donator UID here
 donatorsgoldstealth = [""];
