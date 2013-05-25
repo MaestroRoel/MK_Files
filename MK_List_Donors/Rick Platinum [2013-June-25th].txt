@@ -1,6 +1,7 @@
 Edit by Cheeze, Mar 12
 Edit by Roel, May 1 (+1 month extension) < This failed and wasnt put in the DB.
 Edit by Cheeze, Apr 10
+Edit by Cheeze, May 25th
 
 Inventory:
 [["M4A1_AIM_SD_camo","M9SD","NVGoggles","Binocular_Vector","ItemMap","ItemCompass","ItemMatchbox","ItemKnife","ItemHatchet","ItemGPS","ItemFlashlight","ItemToolbox","ItemWatch"],["ItemPainkiller","ItemMorphine","ItemMorphine","ItemPainkiller","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","ItemAntibiotic","HandGrenade_West","ItemBandage","ItemBandage","ItemBandage","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemBandage"]]
@@ -19,4 +20,4 @@ Sniper1_DZ
 106957958
 
 
-Rick Platinum [2013-May-10]
+Rick Platinum [2013-June-25th]
