@@ -39,9 +39,10 @@ donatorssilverstealth = [];
 publicvariable "donatorssilverstealth";
 
 //Add gold donator UID here
-donatorsgold = ["93185158"];
+donatorsgold = ["93185158", "120595014"];
 publicvariable "donatorsgold";
 //93185158=RADDA7 [23 June 2013]
+//120595014=Ahhhh [26 June 2013]
 
 //Add gold stealth donator UID here
 donatorsgoldstealth = [""];
