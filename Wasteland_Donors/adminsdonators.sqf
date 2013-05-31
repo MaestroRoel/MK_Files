@@ -31,8 +31,9 @@ publicvariable "donatorsbronze";
 
 
 //Add silver donator UID here
-donatorssilver = [""];
+donatorssilver = ["14284614"];
 publicvariable "donatorssilver";
+//14284614=SteveMcQueen [2013-July-01]
 
 //Add silver stealth donator UID here
 donatorssilverstealth = [];
