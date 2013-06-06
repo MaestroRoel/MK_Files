@@ -40,30 +40,27 @@ donatorssilverstealth = [];
 publicvariable "donatorssilverstealth";
 
 //Add gold donator UID here
-donatorsgold = ["93185158", "120595014", "68537158", "59236166", "129168454"];
+donatorsgold = ["93185158", "120595014", "68537158"];
 publicvariable "donatorsgold";
 //93185158=RADDA7 [23 June 2013]
 //120595014=Ahhhh [26 June 2013]
 //68537158=Aziz [28 June 2013]
-//59236166=aBoAlHrGxbox [28 June 2013]
-//129168454=IVIal7oOoS [1 July 2013]
+
 
 //Add gold stealth donator UID here
 donatorsgoldstealth = [""];
 publicvariable "donatorsgoldstealth";
 
 //Add Platinum Donator UID here
-donatorsdiamond = ["94177606", "91118150", "66925382", "89079494", "64667270", "93471366","3507392", "12828742", "76224902"];
+donatorsdiamond = ["94177606", "3507392", "12828742", "76224902", "93880070", "59236166", "129168454"];
 publicvariable "donatorsdiamond";
 //94177606=Admin Cheeze
-//91118150=Bob Platinum [2013-May-28]
-//66925382=CHUCK NORRIS [2013-May-29]
-//89079494=Pernox Platinum [2013-May-29]
-//64667270=MagicRecon Platinum [2013-May-29]
-//93471366=[CLL] kalle [2013 - May - 31]
 //3507392=BestOfMiddleEast [2013 - June - 08]
 //12828742=Meowman [2013-June-22th]
 //76224902 = straydogsonacid [24 June]
+//93880070 = BBRgamer [4 July]
+//59236166=aBoAlHrGxbox [28 June 2013]
+//129168454=IVIal7oOoS [1 July 2013]
 
 //Add Platinum stealth donator UID here
 donatorsdiamondstealth = [""];
